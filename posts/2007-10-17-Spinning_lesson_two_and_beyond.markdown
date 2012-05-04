@@ -2,7 +2,7 @@
 Title:  Spinning lesson two and beyond
 Author: Andy Georges
 Date: October 17, 2007
-----
+-----
 
 
 

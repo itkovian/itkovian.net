@@ -2,7 +2,7 @@
 Title:  WordPress comments functional again
 Author: Andy Georges
 Date: September 8, 2006
-----
+-----
 
 
 

@@ -2,7 +2,7 @@
 Title:  Position statement
 Author: Andy Georges
 Date: October 20, 2010
-----
+-----
 
 
 

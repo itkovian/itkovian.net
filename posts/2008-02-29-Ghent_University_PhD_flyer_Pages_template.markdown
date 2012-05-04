@@ -2,7 +2,7 @@
 Title:  Ghent University PhD flyer Pages template
 Author: Andy Georges
 Date: February 29, 2008
-----
+-----
 
 
 

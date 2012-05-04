@@ -2,7 +2,7 @@
 Title:  Ghent University has a new web application
 Author: Andy Georges
 Date: April 4, 2008
-----
+-----
 
 
 

@@ -2,7 +2,7 @@
 Title:  The MacBook has arrived
 Author: Andy Georges
 Date: June 30, 2006
-----
+-----
 
 
 

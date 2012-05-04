@@ -2,7 +2,7 @@
 Title:  The first Belgian Haskell Hackathon
 Author: Andy Georges
 Date: November 7, 2010
-----
+-----
 
 
 

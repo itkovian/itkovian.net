@@ -2,7 +2,7 @@
 Title:  Electricity symbol stencil for Omnigraffle
 Author: Andy Georges
 Date: June 12, 2007
-----
+-----
 
 
 

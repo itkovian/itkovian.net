@@ -2,7 +2,7 @@
 Title:  Python wrapper for Mollom
 Author: Andy Georges
 Date: May 8, 2008
-----
+-----
 
 
 

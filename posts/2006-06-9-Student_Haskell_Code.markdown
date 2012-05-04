@@ -2,7 +2,7 @@
 Title:  Student Haskell Code
 Author: Andy Georges
 Date: June 9, 2006
-----
+-----
 
 
 
