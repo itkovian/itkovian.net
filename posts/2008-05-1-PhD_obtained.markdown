@@ -1,7 +1,8 @@
 -----
-Title:  PhD obtained
-Author: Andy Georges
-Date: May 1, 2008
+title:  PhD obtained
+author: Andy Georges
+date: May 1, 2008
+tags: 
 -----
 
 

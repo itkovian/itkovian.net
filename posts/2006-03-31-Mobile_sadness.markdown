@@ -1,7 +1,8 @@
 -----
-Title:  Mobile sadness
-Author: Andy Georges
-Date: March 31, 2006
+title:  Mobile sadness
+author: Andy Georges
+date: March 31, 2006
+tags: 
 -----
 
 

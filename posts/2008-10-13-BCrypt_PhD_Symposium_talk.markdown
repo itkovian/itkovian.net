@@ -1,7 +1,8 @@
 -----
-Title:  BCrypt PhD Symposium talk
-Author: Andy Georges
-Date: October 13, 2008
+title:  BCrypt PhD Symposium talk
+author: Andy Georges
+date: October 13, 2008
+tags: 
 -----
 
 

@@ -1,7 +1,8 @@
 -----
-Title:  Battery recall
-Author: Andy Georges
-Date: August 25, 2006
+title:  Battery recall
+author: Andy Georges
+date: August 25, 2006
+tags: 
 -----
 
 

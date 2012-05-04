@@ -1,7 +1,8 @@
 -----
-Title:  WordPress comments functional again
-Author: Andy Georges
-Date: September 8, 2006
+title:  WordPress comments functional again
+author: Andy Georges
+date: September 8, 2006
+tags: 
 -----
 
 

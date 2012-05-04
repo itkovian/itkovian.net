@@ -1,7 +1,8 @@
 -----
-Title:  Pattie Maes at OOPSLA
-Author: Andy Georges
-Date: November 8, 2007
+title:  Pattie Maes at OOPSLA
+author: Andy Georges
+date: November 8, 2007
+tags: 
 -----
 
 

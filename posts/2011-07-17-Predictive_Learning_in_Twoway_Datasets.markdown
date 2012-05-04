@@ -1,7 +1,8 @@
 -----
-Title:  Predictive Learning in Two-way Datasets
-Author: Andy Georges
-Date: July 17, 2011
+title:  Predictive Learning in Two-way Datasets
+author: Andy Georges
+date: July 17, 2011
+tags: 
 -----
 
 

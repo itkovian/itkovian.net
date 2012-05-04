@@ -1,7 +1,8 @@
 -----
-Title:  Mollom T-shirt
-Author: Andy Georges
-Date: August 8, 2008
+title:  Mollom T-shirt
+author: Andy Georges
+date: August 8, 2008
+tags: 
 -----
 
 

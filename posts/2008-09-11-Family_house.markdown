@@ -1,7 +1,8 @@
 -----
-Title:  Family house
-Author: Andy Georges
-Date: September 11, 2008
+title:  Family house
+author: Andy Georges
+date: September 11, 2008
+tags: 
 -----
 
 

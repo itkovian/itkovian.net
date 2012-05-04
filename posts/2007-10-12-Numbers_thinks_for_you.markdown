@@ -1,7 +1,8 @@
 -----
-Title:  Numbers thinks for you
-Author: Andy Georges
-Date: October 12, 2007
+title:  Numbers thinks for you
+author: Andy Georges
+date: October 12, 2007
+tags: 
 -----
 
 

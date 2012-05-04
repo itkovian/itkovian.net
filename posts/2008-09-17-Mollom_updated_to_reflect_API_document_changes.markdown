@@ -1,7 +1,8 @@
 -----
-Title:  Mollom updated to reflect API document changes
-Author: Andy Georges
-Date: September 17, 2008
+title:  Mollom updated to reflect API document changes
+author: Andy Georges
+date: September 17, 2008
+tags: 
 -----
 
 

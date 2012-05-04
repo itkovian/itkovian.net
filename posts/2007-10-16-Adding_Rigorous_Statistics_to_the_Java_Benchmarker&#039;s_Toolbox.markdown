@@ -1,7 +1,8 @@
 -----
-Title:  Adding Rigorous Statistics to the Java Benchmarker&
-Author: Andy Georges
-Date: October 16, 2007
+title:  Adding Rigorous Statistics to the Java Benchmarker&
+author: Andy Georges
+date: October 16, 2007
+tags: 
 -----
 
 

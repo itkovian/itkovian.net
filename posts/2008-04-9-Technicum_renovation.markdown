@@ -1,7 +1,8 @@
 -----
-Title:  Technicum renovation
-Author: Andy Georges
-Date: April 9, 2008
+title:  Technicum renovation
+author: Andy Georges
+date: April 9, 2008
+tags: 
 -----
 
 

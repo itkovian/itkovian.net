@@ -1,7 +1,8 @@
 -----
-Title:  Monument Battle (Monumentenstrijd)
-Author: Andy Georges
-Date: February 20, 2007
+title:  Monument Battle (Monumentenstrijd)
+author: Andy Georges
+date: February 20, 2007
+tags: 
 -----
 
 

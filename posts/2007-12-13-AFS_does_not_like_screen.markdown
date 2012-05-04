@@ -1,7 +1,8 @@
 -----
-Title:  AFS does not like screen
-Author: Andy Georges
-Date: December 13, 2007
+title:  AFS does not like screen
+author: Andy Georges
+date: December 13, 2007
+tags: 
 -----
 
 

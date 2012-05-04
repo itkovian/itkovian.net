@@ -1,7 +1,8 @@
 -----
-Title:  OOPSLA Reception and poster sessions
-Author: Andy Georges
-Date: October 21, 2008
+title:  OOPSLA Reception and poster sessions
+author: Andy Georges
+date: October 21, 2008
+tags: 
 -----
 
 

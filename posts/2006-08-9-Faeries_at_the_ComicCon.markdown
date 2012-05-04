@@ -1,7 +1,8 @@
 -----
-Title:  Faeries at the Comic-Con
-Author: Andy Georges
-Date: August 9, 2006
+title:  Faeries at the Comic-Con
+author: Andy Georges
+date: August 9, 2006
+tags: 
 -----
 
 

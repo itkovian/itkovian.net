@@ -1,7 +1,8 @@
 -----
-Title:  Kinepolis and the art of picking a date twice
-Author: Andy Georges
-Date: July 14, 2007
+title:  Kinepolis and the art of picking a date twice
+author: Andy Georges
+date: July 14, 2007
+tags: 
 -----
 
 

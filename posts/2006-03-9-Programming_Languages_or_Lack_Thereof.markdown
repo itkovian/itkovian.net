@@ -1,7 +1,8 @@
 -----
-Title:  Programming Languages or Lack Thereof
-Author: Andy Georges
-Date: March 9, 2006
+title:  Programming Languages or Lack Thereof
+author: Andy Georges
+date: March 9, 2006
+tags: 
 -----
 
 

@@ -1,7 +1,8 @@
 -----
-Title:  Seattle
-Author: Andy Georges
-Date: September 18, 2006
+title:  Seattle
+author: Andy Georges
+date: September 18, 2006
+tags: 
 -----
 
 

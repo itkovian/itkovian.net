@@ -1,7 +1,8 @@
 -----
-Title:  LHC news
-Author: Andy Georges
-Date: September 11, 2008
+title:  LHC news
+author: Andy Georges
+date: September 11, 2008
+tags: 
 -----
 
 

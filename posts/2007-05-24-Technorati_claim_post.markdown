@@ -1,7 +1,8 @@
 -----
-Title:  Technorati claim post
-Author: Andy Georges
-Date: May 24, 2007
+title:  Technorati claim post
+author: Andy Georges
+date: May 24, 2007
+tags: 
 -----
 
 

@@ -1,7 +1,8 @@
 -----
-Title:  PACT paper
-Author: Andy Georges
-Date: September 19, 2006
+title:  PACT paper
+author: Andy Georges
+date: September 19, 2006
+tags: 
 -----
 
 

@@ -1,7 +1,8 @@
 -----
-Title:  Creative WiiMote uses
-Author: Andy Georges
-Date: January 2, 2008
+title:  Creative WiiMote uses
+author: Andy Georges
+date: January 2, 2008
+tags: 
 -----
 
 

@@ -1,7 +1,8 @@
 -----
-Title:  Mini symposium on managed runtime systems
-Author: Andy Georges
-Date: March 21, 2008
+title:  Mini symposium on managed runtime systems
+author: Andy Georges
+date: March 21, 2008
+tags: 
 -----
 
 

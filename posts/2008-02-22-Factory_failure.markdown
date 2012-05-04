@@ -1,7 +1,8 @@
 -----
-Title:  Factory failure
-Author: Andy Georges
-Date: February 22, 2008
+title:  Factory failure
+author: Andy Georges
+date: February 22, 2008
+tags: 
 -----
 
 

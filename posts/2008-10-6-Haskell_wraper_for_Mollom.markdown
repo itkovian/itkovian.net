@@ -1,7 +1,8 @@
 -----
-Title:  Haskell wraper for Mollom
-Author: Andy Georges
-Date: October 6, 2008
+title:  Haskell wraper for Mollom
+author: Andy Georges
+date: October 6, 2008
+tags: 
 -----
 
 

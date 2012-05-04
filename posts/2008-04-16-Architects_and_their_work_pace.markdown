@@ -1,7 +1,8 @@
 -----
-Title:  Architects and their work pace
-Author: Andy Georges
-Date: April 16, 2008
+title:  Architects and their work pace
+author: Andy Georges
+date: April 16, 2008
+tags: 
 -----
 
 

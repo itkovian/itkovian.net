@@ -1,7 +1,8 @@
 -----
-Title:  Ceiling progress
-Author: Andy Georges
-Date: September 11, 2006
+title:  Ceiling progress
+author: Andy Georges
+date: September 11, 2006
+tags: 
 -----
 
 

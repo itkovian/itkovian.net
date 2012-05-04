@@ -1,7 +1,8 @@
 -----
-Title:  Student Haskell Code
-Author: Andy Georges
-Date: June 9, 2006
+title:  Student Haskell Code
+author: Andy Georges
+date: June 9, 2006
+tags: 
 -----
 
 

@@ -1,7 +1,8 @@
 -----
-Title:  Let loose
-Author: Andy Georges
-Date: October 7, 2006
+title:  Let loose
+author: Andy Georges
+date: October 7, 2006
+tags: 
 -----
 
 

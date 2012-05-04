@@ -1,7 +1,8 @@
 -----
-Title:  Ostende
-Author: Andy Georges
-Date: August 28, 2008
+title:  Ostende
+author: Andy Georges
+date: August 28, 2008
+tags: 
 -----
 
 

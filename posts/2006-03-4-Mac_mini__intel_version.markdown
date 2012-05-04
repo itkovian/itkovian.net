@@ -1,7 +1,8 @@
 -----
-Title:  Mac mini - intel version
-Author: Andy Georges
-Date: March 4, 2006
+title:  Mac mini - intel version
+author: Andy Georges
+date: March 4, 2006
+tags: 
 -----
 
 

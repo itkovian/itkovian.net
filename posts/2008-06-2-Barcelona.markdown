@@ -1,7 +1,8 @@
 -----
-Title:  Barcelona
-Author: Andy Georges
-Date: June 2, 2008
+title:  Barcelona
+author: Andy Georges
+date: June 2, 2008
+tags: 
 -----
 
 

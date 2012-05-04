@@ -1,7 +1,8 @@
 -----
-Title:  WTF calculator competition
-Author: Andy Georges
-Date: June 12, 2007
+title:  WTF calculator competition
+author: Andy Georges
+date: June 12, 2007
+tags: 
 -----
 
 

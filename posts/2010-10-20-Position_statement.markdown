@@ -1,7 +1,8 @@
 -----
-Title:  Position statement
-Author: Andy Georges
-Date: October 20, 2010
+title:  Position statement
+author: Andy Georges
+date: October 20, 2010
+tags: 
 -----
 
 

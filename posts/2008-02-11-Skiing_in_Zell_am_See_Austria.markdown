@@ -1,7 +1,8 @@
 -----
-Title:  Skiing in Zell am See, Austria
-Author: Andy Georges
-Date: February 11, 2008
+title:  Skiing in Zell am See, Austria
+author: Andy Georges
+date: February 11, 2008
+tags: 
 -----
 
 

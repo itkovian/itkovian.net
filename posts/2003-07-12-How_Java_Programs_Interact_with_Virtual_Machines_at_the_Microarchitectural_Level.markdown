@@ -1,7 +1,8 @@
 -----
-Title:  How Java Programs Interact with Virtual Machines at the Microarchitectural Level
-Author: Andy Georges
-Date: July 12, 2003
+title:  How Java Programs Interact with Virtual Machines at the Microarchitectural Level
+author: Andy Georges
+date: July 12, 2003
+tags: 
 -----
 
 

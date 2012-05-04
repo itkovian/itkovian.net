@@ -1,7 +1,8 @@
 -----
-Title:  Thou shalt not reboot later!
-Author: Andy Georges
-Date: February 23, 2007
+title:  Thou shalt not reboot later!
+author: Andy Georges
+date: February 23, 2007
+tags: 
 -----
 
 

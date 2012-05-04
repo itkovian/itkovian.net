@@ -1,7 +1,8 @@
 -----
-Title:  Manipulation
-Author: Andy Georges
-Date: October 2, 2006
+title:  Manipulation
+author: Andy Georges
+date: October 2, 2006
+tags: 
 -----
 
 

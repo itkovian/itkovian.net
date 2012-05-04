@@ -1,7 +1,8 @@
 -----
-Title:  Growth
-Author: Andy Georges
-Date: November 28, 2006
+title:  Growth
+author: Andy Georges
+date: November 28, 2006
+tags: 
 -----
 
 

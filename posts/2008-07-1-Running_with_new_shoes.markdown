@@ -1,7 +1,8 @@
 -----
-Title:  Running with new shoes
-Author: Andy Georges
-Date: July 1, 2008
+title:  Running with new shoes
+author: Andy Georges
+date: July 1, 2008
+tags: 
 -----
 
 

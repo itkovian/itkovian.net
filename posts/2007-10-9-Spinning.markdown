@@ -1,7 +1,8 @@
 -----
-Title:  Spinning
-Author: Andy Georges
-Date: October 9, 2007
+title:  Spinning
+author: Andy Georges
+date: October 9, 2007
+tags: 
 -----
 
 

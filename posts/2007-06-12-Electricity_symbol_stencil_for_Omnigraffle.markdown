@@ -1,7 +1,8 @@
 -----
-Title:  Electricity symbol stencil for Omnigraffle
-Author: Andy Georges
-Date: June 12, 2007
+title:  Electricity symbol stencil for Omnigraffle
+author: Andy Georges
+date: June 12, 2007
+tags: 
 -----
 
 

@@ -1,7 +1,8 @@
 -----
-Title:  Procrastination excuse
-Author: Andy Georges
-Date: August 15, 2007
+title:  Procrastination excuse
+author: Andy Georges
+date: August 15, 2007
+tags: 
 -----
 
 

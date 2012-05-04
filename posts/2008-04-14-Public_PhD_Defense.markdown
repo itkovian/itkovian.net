@@ -1,7 +1,8 @@
 -----
-Title:  Public PhD Defense
-Author: Andy Georges
-Date: April 14, 2008
+title:  Public PhD Defense
+author: Andy Georges
+date: April 14, 2008
+tags: 
 -----
 
 

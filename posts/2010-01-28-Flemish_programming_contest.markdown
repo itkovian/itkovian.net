@@ -1,7 +1,8 @@
 -----
-Title:  Flemish programming contest
-Author: Andy Georges
-Date: January 28, 2010
+title:  Flemish programming contest
+author: Andy Georges
+date: January 28, 2010
+tags: 
 -----
 
 

@@ -1,7 +1,8 @@
 -----
-Title:  Reserve battery
-Author: Andy Georges
-Date: September 4, 2006
+title:  Reserve battery
+author: Andy Georges
+date: September 4, 2006
+tags: 
 -----
 
 

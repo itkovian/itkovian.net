@@ -1,7 +1,8 @@
 -----
-Title:  Using HPM-Sampling to Drive Dynamic Compilation
-Author: Andy Georges
-Date: May 12, 2007
+title:  Using HPM-Sampling to Drive Dynamic Compilation
+author: Andy Georges
+date: May 12, 2007
+tags: 
 -----
 
 

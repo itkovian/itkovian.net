@@ -1,7 +1,8 @@
 -----
-Title:  Transparency
-Author: Andy Georges
-Date: January 30, 2007
+title:  Transparency
+author: Andy Georges
+date: January 30, 2007
+tags: 
 -----
 
 

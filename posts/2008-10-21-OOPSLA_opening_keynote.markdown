@@ -1,7 +1,8 @@
 -----
-Title:  OOPSLA opening keynote
-Author: Andy Georges
-Date: October 21, 2008
+title:  OOPSLA opening keynote
+author: Andy Georges
+date: October 21, 2008
+tags: 
 -----
 
 

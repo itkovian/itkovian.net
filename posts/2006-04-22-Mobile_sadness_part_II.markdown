@@ -1,7 +1,8 @@
 -----
-Title:  Mobile sadness part II
-Author: Andy Georges
-Date: April 22, 2006
+title:  Mobile sadness part II
+author: Andy Georges
+date: April 22, 2006
+tags: 
 -----
 
 

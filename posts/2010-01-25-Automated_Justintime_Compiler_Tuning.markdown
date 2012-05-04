@@ -1,7 +1,8 @@
 -----
-Title:  Automated Just-in-time Compiler Tuning
-Author: Andy Georges
-Date: January 25, 2010
+title:  Automated Just-in-time Compiler Tuning
+author: Andy Georges
+date: January 25, 2010
+tags: 
 -----
 
 

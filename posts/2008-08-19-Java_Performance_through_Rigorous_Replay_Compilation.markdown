@@ -1,7 +1,8 @@
 -----
-Title:  Java Performance through Rigorous Replay Compilation
-Author: Andy Georges
-Date: August 19, 2008
+title:  Java Performance through Rigorous Replay Compilation
+author: Andy Georges
+date: August 19, 2008
+tags: 
 -----
 
 

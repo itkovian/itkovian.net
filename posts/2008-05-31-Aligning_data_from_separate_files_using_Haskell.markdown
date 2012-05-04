@@ -1,7 +1,8 @@
 -----
-Title:  Aligning data from separate files using Haskell
-Author: Andy Georges
-Date: May 31, 2008
+title:  Aligning data from separate files using Haskell
+author: Andy Georges
+date: May 31, 2008
+tags: 
 -----
 
 

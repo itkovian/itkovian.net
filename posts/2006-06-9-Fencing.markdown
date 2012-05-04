@@ -1,7 +1,8 @@
 -----
-Title:  Fencing
-Author: Andy Georges
-Date: June 9, 2006
+title:  Fencing
+author: Andy Georges
+date: June 9, 2006
+tags: 
 -----
 
 

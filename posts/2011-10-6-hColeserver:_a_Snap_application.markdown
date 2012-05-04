@@ -1,7 +1,8 @@
 -----
-Title:  hCole-server: a Snap application
-Author: Andy Georges
-Date: October 6, 2011
+title:  hCole-server: a Snap application
+author: Andy Georges
+date: October 6, 2011
+tags: 
 -----
 
 

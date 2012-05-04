@@ -1,7 +1,8 @@
 -----
-Title:  Plazes moves from beta to gamma
-Author: Andy Georges
-Date: June 6, 2007
+title:  Plazes moves from beta to gamma
+author: Andy Georges
+date: June 6, 2007
+tags: 
 -----
 
 

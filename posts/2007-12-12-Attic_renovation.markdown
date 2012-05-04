@@ -1,7 +1,8 @@
 -----
-Title:  Attic renovation
-Author: Andy Georges
-Date: December 12, 2007
+title:  Attic renovation
+author: Andy Georges
+date: December 12, 2007
+tags: 
 -----
 
 

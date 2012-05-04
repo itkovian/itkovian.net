@@ -1,7 +1,8 @@
 -----
-Title:  Mobile madness
-Author: Andy Georges
-Date: March 23, 2006
+title:  Mobile madness
+author: Andy Georges
+date: March 23, 2006
+tags: 
 -----
 
 

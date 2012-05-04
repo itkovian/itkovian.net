@@ -1,7 +1,8 @@
 -----
-Title:  Wordpress 2 drupal
-Author: Andy Georges
-Date: May 4, 2007
+title:  Wordpress 2 drupal
+author: Andy Georges
+date: May 4, 2007
+tags: 
 -----
 
 

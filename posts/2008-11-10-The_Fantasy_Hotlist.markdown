@@ -1,7 +1,8 @@
 -----
-Title:  The Fantasy Hotlist
-Author: Andy Georges
-Date: November 10, 2008
+title:  The Fantasy Hotlist
+author: Andy Georges
+date: November 10, 2008
+tags: 
 -----
 
 

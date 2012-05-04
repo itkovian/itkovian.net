@@ -1,7 +1,8 @@
 -----
-Title:  Spamming for patent journals
-Author: Andy Georges
-Date: March 31, 2009
+title:  Spamming for patent journals
+author: Andy Georges
+date: March 31, 2009
+tags: 
 -----
 
 

@@ -1,7 +1,8 @@
 -----
-Title:  SPAM, begone!
-Author: Andy Georges
-Date: April 1, 2008
+title:  SPAM, begone!
+author: Andy Georges
+date: April 1, 2008
+tags: 
 -----
 
 

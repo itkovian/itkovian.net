@@ -1,7 +1,8 @@
 -----
-Title:  Announcement
-Author: Andy Georges
-Date: September 27, 2006
+title:  Announcement
+author: Andy Georges
+date: September 27, 2006
+tags: 
 -----
 
 

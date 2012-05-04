@@ -1,7 +1,8 @@
 -----
-Title:  Using performance counters with multi-threaded applications
-Author: Andy Georges
-Date: May 23, 2008
+title:  Using performance counters with multi-threaded applications
+author: Andy Georges
+date: May 23, 2008
+tags: 
 -----
 
 

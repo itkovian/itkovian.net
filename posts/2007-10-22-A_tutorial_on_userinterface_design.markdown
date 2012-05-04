@@ -1,7 +1,8 @@
 -----
-Title:  A tutorial on user-interface design
-Author: Andy Georges
-Date: October 22, 2007
+title:  A tutorial on user-interface design
+author: Andy Georges
+date: October 22, 2007
+tags: 
 -----
 
 

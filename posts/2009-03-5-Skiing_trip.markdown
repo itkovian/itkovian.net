@@ -1,7 +1,8 @@
 -----
-Title:  Skiing trip
-Author: Andy Georges
-Date: March 5, 2009
+title:  Skiing trip
+author: Andy Georges
+date: March 5, 2009
+tags: 
 -----
 
 

@@ -1,7 +1,8 @@
 -----
-Title:  Wedding anniversary
-Author: Andy Georges
-Date: April 29, 2006
+title:  Wedding anniversary
+author: Andy Georges
+date: April 29, 2006
+tags: 
 -----
 
 

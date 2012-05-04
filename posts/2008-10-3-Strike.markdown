@@ -1,7 +1,8 @@
 -----
-Title:  Strike!
-Author: Andy Georges
-Date: October 3, 2008
+title:  Strike!
+author: Andy Georges
+date: October 3, 2008
+tags: 
 -----
 
 

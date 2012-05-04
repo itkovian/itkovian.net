@@ -1,7 +1,8 @@
 -----
-Title:  Montreal Hyatt WiFi
-Author: Andy Georges
-Date: October 22, 2007
+title:  Montreal Hyatt WiFi
+author: Andy Georges
+date: October 22, 2007
+tags: 
 -----
 
 

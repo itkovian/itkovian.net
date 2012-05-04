@@ -1,7 +1,8 @@
 -----
-Title:  MacBook!
-Author: Andy Georges
-Date: June 2, 2006
+title:  MacBook!
+author: Andy Georges
+date: June 2, 2006
+tags: 
 -----
 
 

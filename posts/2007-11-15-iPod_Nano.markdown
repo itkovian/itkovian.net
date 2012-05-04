@@ -1,7 +1,8 @@
 -----
-Title:  iPod Nano
-Author: Andy Georges
-Date: November 15, 2007
+title:  iPod Nano
+author: Andy Georges
+date: November 15, 2007
+tags: 
 -----
 
 

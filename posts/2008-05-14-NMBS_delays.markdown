@@ -1,7 +1,8 @@
 -----
-Title:  NMBS delays
-Author: Andy Georges
-Date: May 14, 2008
+title:  NMBS delays
+author: Andy Georges
+date: May 14, 2008
+tags: 
 -----
 
 

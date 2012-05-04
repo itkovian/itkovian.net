@@ -1,7 +1,8 @@
 -----
-Title:  Python XML-RPC needs a facelift.
-Author: Andy Georges
-Date: June 15, 2007
+title:  Python XML-RPC needs a facelift.
+author: Andy Georges
+date: June 15, 2007
+tags: 
 -----
 
 

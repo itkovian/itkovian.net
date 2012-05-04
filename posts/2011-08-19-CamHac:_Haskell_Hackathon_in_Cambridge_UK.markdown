@@ -1,7 +1,8 @@
 -----
-Title:  CamHac: Haskell Hackathon in Cambridge, UK
-Author: Andy Georges
-Date: August 19, 2011
+title:  CamHac: Haskell Hackathon in Cambridge, UK
+author: Andy Georges
+date: August 19, 2011
+tags: 
 -----
 
 

@@ -1,7 +1,8 @@
 -----
-Title:  Moving hMollom to a monadic base
-Author: Andy Georges
-Date: April 12, 2010
+title:  Moving hMollom to a monadic base
+author: Andy Georges
+date: April 12, 2010
+tags: 
 -----
 
 

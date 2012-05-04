@@ -1,7 +1,8 @@
 -----
-Title:  VRT website goes back in time
-Author: Andy Georges
-Date: January 7, 2008
+title:  VRT website goes back in time
+author: Andy Georges
+date: January 7, 2008
+tags: 
 -----
 
 

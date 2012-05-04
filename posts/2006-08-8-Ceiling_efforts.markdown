@@ -1,7 +1,8 @@
 -----
-Title:  Ceiling efforts
-Author: Andy Georges
-Date: August 8, 2006
+title:  Ceiling efforts
+author: Andy Georges
+date: August 8, 2006
+tags: 
 -----
 
 

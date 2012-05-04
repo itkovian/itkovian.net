@@ -1,7 +1,8 @@
 -----
-Title:  Kathy Sierra on creating passionate users
-Author: Andy Georges
-Date: October 25, 2007
+title:  Kathy Sierra on creating passionate users
+author: Andy Georges
+date: October 25, 2007
+tags: 
 -----
 
 

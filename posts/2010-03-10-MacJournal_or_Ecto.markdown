@@ -1,7 +1,8 @@
 -----
-Title:  MacJournal or Ecto?
-Author: Andy Georges
-Date: March 10, 2010
+title:  MacJournal or Ecto?
+author: Andy Georges
+date: March 10, 2010
+tags: 
 -----
 
 

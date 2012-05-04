@@ -1,7 +1,8 @@
 -----
-Title:  WCET analysis
-Author: Andy Georges
-Date: July 14, 2009
+title:  WCET analysis
+author: Andy Georges
+date: July 14, 2009
+tags: 
 -----
 
 

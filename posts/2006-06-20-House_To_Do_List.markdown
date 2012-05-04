@@ -1,7 +1,8 @@
 -----
-Title:  House To Do List
-Author: Andy Georges
-Date: June 20, 2006
+title:  House To Do List
+author: Andy Georges
+date: June 20, 2006
+tags: 
 -----
 
 

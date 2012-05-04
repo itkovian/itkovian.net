@@ -1,7 +1,8 @@
 -----
-Title:  Getting work done.
-Author: Andy Georges
-Date: December 8, 2006
+title:  Getting work done.
+author: Andy Georges
+date: December 8, 2006
+tags: 
 -----
 
 

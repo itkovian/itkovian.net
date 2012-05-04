@@ -1,7 +1,8 @@
 -----
-Title:  Fixoring the Belgian railways in some small aspect.
-Author: Andy Georges
-Date: September 5, 2011
+title:  Fixoring the Belgian railways in some small aspect.
+author: Andy Georges
+date: September 5, 2011
+tags: 
 -----
 
 

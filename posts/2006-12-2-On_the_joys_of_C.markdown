@@ -1,7 +1,8 @@
 -----
-Title:  On the joys of C
-Author: Andy Georges
-Date: December 2, 2006
+title:  On the joys of C
+author: Andy Georges
+date: December 2, 2006
+tags: 
 -----
 
 

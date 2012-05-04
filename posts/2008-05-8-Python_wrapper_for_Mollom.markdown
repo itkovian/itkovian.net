@@ -1,7 +1,8 @@
 -----
-Title:  Python wrapper for Mollom
-Author: Andy Georges
-Date: May 8, 2008
+title:  Python wrapper for Mollom
+author: Andy Georges
+date: May 8, 2008
+tags: 
 -----
 
 

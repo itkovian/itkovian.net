@@ -1,7 +1,8 @@
 -----
-Title:  Disgustipated
-Author: Andy Georges
-Date: July 3, 2006
+title:  Disgustipated
+author: Andy Georges
+date: July 3, 2006
+tags: 
 -----
 
 

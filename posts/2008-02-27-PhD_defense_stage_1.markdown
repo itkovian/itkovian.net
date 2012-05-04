@@ -1,7 +1,8 @@
 -----
-Title:  PhD defense stage 1
-Author: Andy Georges
-Date: February 27, 2008
+title:  PhD defense stage 1
+author: Andy Georges
+date: February 27, 2008
+tags: 
 -----
 
 

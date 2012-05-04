@@ -1,7 +1,8 @@
 -----
-Title:  Academic year shift
-Author: Andy Georges
-Date: December 2, 2006
+title:  Academic year shift
+author: Andy Georges
+date: December 2, 2006
+tags: 
 -----
 
 

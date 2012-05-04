@@ -1,7 +1,8 @@
 -----
-Title:  Still spinning
-Author: Andy Georges
-Date: November 29, 2007
+title:  Still spinning
+author: Andy Georges
+date: November 29, 2007
+tags: 
 -----
 
 

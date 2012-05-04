@@ -1,7 +1,8 @@
 -----
-Title:  Paradise City
-Author: Andy Georges
-Date: June 20, 2006
+title:  Paradise City
+author: Andy Georges
+date: June 20, 2006
+tags: 
 -----
 
 

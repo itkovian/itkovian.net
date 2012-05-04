@@ -1,7 +1,8 @@
 -----
-Title:  PyMollom moved to GitHub
-Author: Andy Georges
-Date: February 8, 2010
+title:  PyMollom moved to GitHub
+author: Andy Georges
+date: February 8, 2010
+tags: 
 -----
 
 

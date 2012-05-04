@@ -1,7 +1,8 @@
 -----
-Title:  Trouble in paradise
-Author: Andy Georges
-Date: July 6, 2006
+title:  Trouble in paradise
+author: Andy Georges
+date: July 6, 2006
+tags: 
 -----
 
 

@@ -1,7 +1,8 @@
 -----
-Title:  Scientific Rigour
-Author: Andy Georges
-Date: November 21, 2008
+title:  Scientific Rigour
+author: Andy Georges
+date: November 21, 2008
+tags: 
 -----
 
 

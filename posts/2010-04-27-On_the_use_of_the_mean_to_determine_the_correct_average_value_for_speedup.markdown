@@ -1,7 +1,8 @@
 -----
-Title:  On the use of the mean to determine the correct average value for speedup
-Author: Andy Georges
-Date: April 27, 2010
+title:  On the use of the mean to determine the correct average value for speedup
+author: Andy Georges
+date: April 27, 2010
+tags: 
 -----
 
 

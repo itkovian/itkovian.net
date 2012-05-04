@@ -1,7 +1,8 @@
 -----
-Title:  Resume
-Author: Andy Georges
-Date: May 3, 2007
+title:  Resume
+author: Andy Georges
+date: May 3, 2007
+tags: 
 -----
 
 
