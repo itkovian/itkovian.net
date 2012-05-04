@@ -1,0 +1,31 @@
+-----
+Title:  
+Author: Andy Georges
+Date: January 28, 2010
+----
+
+
+
+
+
+
+
+On March 17th, 2010, [Ghent University](http://www.ugent.be/) organises
+the second Flemish Programming Contest, in collaboration with the
+universities of [Leuven](http://kuleuven.ac.be/),
+[Hasselt](http://www.uhasselt.be/), [Brussels](http://www.vub.ac.be/),
+and [Antwerp](http://www.ua.ac.be/).
+
+
+For three different categories of participating teams, we offer five
+problems that need to be solved in three hours. The goal is to have at
+least one fairly easy and one quite hard problem for each category, but
+as we all know, a problem is only hard when you do not see the solution.
+So YMMV. However, there should be something to everybody's liking. The
+categories are the following: (i) secondary school students and first
+year bachelor students, (ii) second and third year bachelors plus master
+students, and (iii) PhD. students and graduated people.
+
+
+
+

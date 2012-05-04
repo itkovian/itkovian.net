@@ -1,0 +1,186 @@
+-----
+Title:  FOSDEM 2009
+Author: Andy Georges
+Date: February 10, 2009
+----
+
+
+
+
+
+
+
+After a few years, I once again managed to attend the
+[FOSDEM](http://fosdem.org/) conference. It was a good experience, and I
+enjoyed most of the talks I attended.
+
+
+The opening talk was preceded by an overview of the conference, the beer
+fest of the previous night and the FOSDEM dance, where geeks showed off
+their skills. The room was quite packed, with people moving in all the
+time during the first minutes of the talk given by Mark Surman on a
+Free.Open.Future.
+
+
+[![image](71E880C1-5FC7-4F7A-AAB7-FFFF4D3E0628-1.jpg)](http://www.flickr.com/photos/itkovian/3261442552/)
+
+
+Mark's main points were on the successes of Open Source thus far,
+especially the adoption of open applications and platforms in the last
+year: WordPress, Firefox and the Linux powered netbooks. He stressed
+that the rise of multiple browsers has helped getting rid of websites
+that are only willing to serve pages to the Internet Exploder. Of
+course, code also needs content to make things interesting for people.
+The main example Mark talked briefly about was Flickr and the mass of
+[Creative Commons](http://creativecommons.org/) licensed images.
+
+
+Yet the road ahead seems to be one where Open Source is heading into a
+very closed environment: the mobile world. It seems that the mobile
+environment will need a different conceptual map from what we have been
+using in the non-mobile computing world. Pressure points to get past the
+closed ecosystem, where mobile phone operators dictate law, are still
+largely unknown. Mark claimed we need better and bigger maps to gain an
+understanding of how the mobile world moves, who the payers are and how
+we can break through misconceptions. Several things probably ought to be
+on the map: strong values, freedom beyond just code; free software that
+empowers people (even those who do not agree with the free and open
+idea); users as hackers.
+
+
+[![image](71E880C1-5FC7-4F7A-AAB7-FFFF4D3E0628-2.jpg)](http://www.flickr.com/photos/itkovian/3260596917/)
+
+
+After the talk, I went out to peek at the booths, after which I returned
+to listen to the remainder of the [Debian](http://www.debian.org/) Talk.
+Seems like a release is due by February 14th. We can only hope.
+
+
+The afternoon started with a few talks on the state of the OpenJDK,
+IcedTea, and such. The Free Java DevRoom was packed. I doubt were
+conformed to the fire department regulations.
+
+
+[![image](71E880C1-5FC7-4F7A-AAB7-FFFF4D3E0628-3.jpg)](http://www.flickr.com/photos/itkovian/3260627013/)
+
+
+I had expected a lot off information on the state of the VM itself, but
+all I got was a short list of stuff the VM would incorporate: a new GC,
+compressed 64-bit pointers, and several HotSpot runtime compiler
+improvements. The OpenJDK 7 will be lacking closures, first-class
+properties, operator overloading and bigdecimal syntax. Joe Darcy
+proceeded with a short overview of OpenJDK 6, for which an open
+[Mercurial](http://www.selenic.com/mercurial/wiki/) repository outside
+any SUN firewalled domain was created. Mark Reinhold took up the
+presenters place talking about JigSaw, and told us most of the stuff
+that was put in this [blog post](http://blogs.sun.com/mr/entry/jigsaw).
+I mainly retain that they want to get rid of unscaling jar files and
+fully modularize the whole ordeal.
+
+
+The last talk I attended on Saturday was a short intro to
+[Scala](http://www.scala-lang.org/) where Martin Odersly tried to
+convince the crowd that the Scala approach was the way forward. I pretty
+much liked the fact that it adopts a functional approach to programming,
+in some given sense of *functional*. I list the main points that drew my
+interest: strong typing, type inference, little boilerplate are the
+basis. Scala has higher-order functions, algebraic types, parametric
+polymorphism and subtyping and inheritance, dynamic configurations,
+classes as partial abstractions. Yet it does have side-effects (not
+encapsulated), yet it uses functions as first order objects (currying,
+partial application, ...) Functions in Scala are also objects, embodied
+by traits. This means that functions can be subclassed or specialised,
+e.g., for arrays, collections, etc.
+
+
+For the moment, however, the only advantage Scala seems to have over
+e.g., [Haskell](http://haskel.org/) is that it can fully reuse the
+entire Java codebase that floats out there. Still, I think Haskell is
+still the better programming language. And a number of geeks certainly
+seemed to agree as the [RWH](http://book.realworldhaskell.org/) book
+sold out ofter a single day. Of course, O'Reilly might not have carried
+a whole lot of them to begin with, but I thought it neat nonetheless.
+
+
+[![image](71E880C1-5FC7-4F7A-AAB7-FFFF4D3E0628-4.jpg)](http://www.flickr.com/photos/itkovian/3261431400/)
+
+
+On Sunday I arrived early, not wanting to miss
+[Dries'](http://buytaert.net/) talk on [Drupal 7](http://drupal.org/).
+
+
+[![image](71E880C1-5FC7-4F7A-AAB7-FFFF4D3E0628-5.jpg)](http://www.flickr.com/photos/itkovian/3263794313/)
+
+
+Currently Drupal 7 is still in a flux, with a code freeze months away
+:-) The biggest issue that is being tackled is usability, which is
+critical to adoption. A lot of small things are already in: password
+strength checker, installation profiles where much used features are set
+up automagically. As Dries mentioned a while back, Mark Boulton will do
+some work on the usability front. Cool is that files have become first
+class citizens, with hook readily available to plug into and get
+notified when files are accessed, changed, etc.
+
+
+The major point, to me, was the move towards more semantics in the
+output of the Drupal engine. This should allow machines to more
+correctly interpret what each piece of data represents and how the user
+will perceive it. Another major issue is getting the CCK to the Drupal
+core. Dries mentioned that this move has driven a lot of innovations.
+Fields are now in core, which enables a lot of other things. Thus, a
+node can have Fields, which can be (almost) anything. Basically, the CCK
+is now reduced to the UI in contrib.
+
+
+By Sunday noon, the stack of Using Drupal books had also dropped to a
+single item.
+
+
+[![image](71E880C1-5FC7-4F7A-AAB7-FFFF4D3E0628-6.jpg)](http://www.flickr.com/photos/itkovian/3264646268/)
+
+
+I noticed there was some love/hate relationship with
+[Gnome](http://gnome.org/):
+
+
+[![image](71E880C1-5FC7-4F7A-AAB7-FFFF4D3E0628-7.jpg)](http://www.flickr.com/photos/itkovian/3263838801/)
+
+
+In the afternoon, I attended the Ext4 talk by Theodore Tso, which seemed
+to indicate we're moving back to an old scheme where contiguous regions
+are stored in the inode rather than addressing each block separately. I
+wonder how well this scheme will hold under a full disk, or a disk where
+a lot of stuff gets written and deleted. Apparently there will be a
+defragmenting tool running in the background. I am still partial to the
+whole idea.
+
+
+I remained in the Janson room to listen to Kris Kenneway, a FreeBSD
+hacker, talk bout peformance analysis in FreeBSD. It was a good talk,
+although it started a tad slow.
+
+
+[![image](71E880C1-5FC7-4F7A-AAB7-FFFF4D3E0628-8.jpg)](http://www.flickr.com/photos/itkovian/3263847491/)
+
+
+The last talk of Sunday on the [Google
+SoC](http://code.google.com/soc/2008/) was also one of the best, except
+for the typically American style where the crowd is supposed to go crazy
+and, as Leslie Hawthron put it 'feel the love'. I thought not :-) But,
+the presentation was nifty and she managed to convey her message well, I
+think:
+
+
+[![image](71E880C1-5FC7-4F7A-AAB7-FFFF4D3E0628-9.jpg)](http://www.flickr.com/photos/itkovian/3264684934/)
+
+
+And so it was. But in the face of overwhelming odds, people can thrive.
+So did the group at Google that runs the SoC.
+
+
+All in all, a fun experience. I even learned a few things, and if my
+schedule allows it, I'll be back next year.
+
+
+
+

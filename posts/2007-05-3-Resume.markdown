@@ -1,0 +1,117 @@
+-----
+Title:  Resume
+Author: Andy Georges
+Date: May 3, 2007
+----
+
+
+
+
+
+
+
+**Personal Information**
+
+
+Name:
+
+
+Andy Georges
+
+
+Address:
+
+
+Onafhankelijkheidsstraat 6
+
+
+8400, Oostende
+
+
+Belgium
+
+
+Sex:
+
+
+Male
+
+
+Date of birth:
+
+
+October 7th, 1977
+
+
+Marital status:
+
+
+Married to Veerle Hanssens
+
+
+Children:
+
+
+[Elias](http://itkovian.net/kids/tags/elias) and
+[Nathan](http://itkovian.net/kids/tags/nathan)
+
+
+**Publications**
+
+
+-   -    Statistically Rigorous Java Performance
+Evaluation[[pdf]](applewebdata://5E746D62-82F8-495E-9D52-EC2588B75E40/files/papers/oopsla2007-georges-preprint.pdf) Andy
+Georges, Dries Buytaert, Lieven Eeckhout Accepted for publication at
+the 22th ACM SIGPLAN Conference on Object-Oriented Programming
+Systems, Languages and Applications October 21-25, 2007 Montreal,
+Canada 
+-    Using HPM-Sampling to Drive Dynamic Compilation Dries Buytaert,
+Andy Georges, Michael Hind, Matthew Arnold, Lieven Eeckhout and Koen
+De Bosschere Accepted for publication at the 22th ACM SIGPLAN
+Conference on Object-Oriented Programming Systems, Languages and
+Applications October 21-25, 2007 Montreal, Canada 
+-    Performance Prediction based on Inherent Program Similarity.
+ Hoste, K.; Phansalkar, A.; Eeckhout, L.; Georges, A.; John, L.; De
+Bosschere, K.  Proceedings of the Fifteenth International Conference
+on Parallel Architectures and Compilation Techniques (PACT). ACM.
+ 2006.  pp. 114-122 
+-    Comparing Low-Level Behavior of SPEC CPU and Java Workloads.
+ Georges, A.; Eeckhout, L.; De Bosschere, K.  Proceedings of the
+Advances in Computer Systems Architecture: 10th Asia-Pacific
+Conference, ACSAC 2005. Springer-Verlag GmbH. Lecture Notes in
+Computer Science. Vol. 3740.  2005.  pp. 669-679 
+-    Towards an extensible context ontology for Ambient Intelligence.
+ Preuveneers, D.; Van den Bergh, J.; Wagelaar, D.; Georges, A.;
+Rigole, P.; Clerckx, T.; Berbers, Y.; Coninx, K.; Jonckers, V.; De
+Bosschere, K.  Proceedings of the 2nd European Symposium on Ambient
+Intelligence. Springer. LNCS. Vol. 3295.  2004.  pp. 148-159 
+-    Method-Level Phase Behavior in Java Workloads.  Georges, A.;
+Buytaert, D.; Eeckhout, L.; De Bosschere, K.  Proceedings of the
+19th ACM SIGPLAN Conference on Object-Oriented Programming Systems,
+Languages and Applications. ACM Press.  2004.  pp. 270-287 
+-    Bottleneck Analysis in Java Workloads using Hardware Performance
+Monitors.  Buytaert, D.; Georges, A.; Eeckhout, L.; De Bosschere, K.
+ Companion of the Proceedings of the 19th ACM SIGPLAN Conference on
+Object-Oriented Systems, Languages and Applications. ACM Press.
+ 2004.  pp. 172-173 
+-    JaRec: a portable record/replay environment for multi-threaded Java
+applications.  Georges, A.; Christiaens, M.; Ronsse, M.; De
+Bosschere, K.  Software - Practice and Experience. John Wiley &
+Sons, Ltd.. Vol. 34 (6).  2004.  pp. 523-547 
+-    Selecting a Reduced but Representative Workload.  Eeckhout, L.;
+Georges, A.; De Bosschere, K.  OOPSLA 2003 Workshop on Middleware
+Benchmarking: Approaches, Results and Experiences 
+-    How Java Programs Interact with Virtual Machines at the
+Microarchitectural Level.  Eeckhout, L.; Georges, A.; De Bosschere,
+K.  Proceedings of the 18th Annual ACM SIGPLAN Conference on
+Object-Oriented Programming, Systems, Languages and Applications
+(OOPSLA 2003). ACM.  2003.  pp. 169-186  
+-    A Taxonomy of Execution Replay Systems.  Cornelis, F.; Georges, A.;
+Christiaens, M.; Ronsse, M.; Ghesquiere, T.; De Bosschere, K.
+ International Conference on Advances in Infrastructure for
+Electronic Business, Education, Science, Medicine, and Mobile
+Technologies on the Internet 2003.  pp. CDROM paper 59 
+
+
+
+

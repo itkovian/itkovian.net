@@ -1,0 +1,215 @@
+-----
+Title:  Evaluate 2010
+Author: Andy Georges
+Date: October 19, 2010
+----
+
+
+
+
+
+
+
+During SPLASHcon, Matthias Hausswirth, Peter Sweeney, Steve Blackburn
+and Amer Diwan organised the Evaluate 2010 workshop to discuss prevalent
+issues with evaluation in the papers the computer science community
+outputs. Even though the attendees mostly are embedded in the
+performance and language communities, the workshop aimed to be fairly
+open to all aspects of computer science.
+
+
+The workshop opened with a very strong keynote talk by Cliff Click.
+Being his usual self, he did not fear controversy, he showed us why he
+often did not believe the numbers and evaluations that are published in
+papers over the last decade. Part of the reason is that the ideas have
+been tried in e.g., Hotspot, and were shown to have either less or more
+impact. Another part is that the evaluation is just irrelevant, since
+the idea has been implemented, but not published. The criticism I have
+here is that the community can hardly be expected to avoid ideas of
+which they do not know they have been implemented or tried. But that
+does not detract from the essence of his remarks. Additionally, often
+evaluation numbers are below the interesting threshold. For example, for
+consumers of academic work there is often little incentive to implement
+the described technique in their own tools or application if the
+potential gain is not over 20%. Worse, for some cases the gain has got
+to be at least a factor 2. Furthermore, unless an idea has been
+implemented in multiple systems, there is no proof or persuasive
+indication that it can be ported over to other systems than the one used
+in the paper. So, what does this mean for all our rigorous evaluations,
+showing that we can squeeze out that extra 5-10% from the system under
+scrutiny?
+
+
+The keynote talk was followed by a fairly long discussion, where the
+following points were raised (there were others, I am summarising).
+First of all was the question how to gain confidence in the results.
+Except for doing each experiment in a statistically rigorous manner, one
+should also account for several other things. First of all, there is the
+impact of factors that are more or less outside of the control on the
+researcher when his technique will be deployed in the wild. Examples
+there are the environment, OS, hardware, etc. Key to getting solid
+results is randomisation in the first case, and using multiple platforms
+in the latter cases. However, that only accounts for the results
+obtained from the full technique. To ascertain that there is nothing
+going on under the hood that interacts with what the researcher is
+trying to implement, it is important that the full technique is broken
+down into smaller steps (if possible), that each can stand on their own
+and for which you expect either a bonus (e.g., speedup) or a cost (e.g.,
+slowdown). The latter might be the case when you have implemented the
+extra profiling code, but did not have the JIT take advantage of this
+extra information. There are several issues that need to be dealt with
+here. Obviously the breakdown, but also the potential for measuring what
+has been changed and its impact. More often than not, aggregate
+performance numbers will not tell the whole story, nor will they provide
+the necessary insight. Such insight is desirable if one wants to argue
+why the approach is portable to other systems. Typically, as
+researchers, we choose a single vehicle to build a proof-of-concept. But
+if we want our ideas to be used, we likely should provide more evidence
+as to why it is any good. Having a breakdown can help in that respect,
+as it tells others what steps were required and if they meet the
+prerequisites for those steps, or if some (or all) of these steps are
+already been taken care of on their target platform.
+
+
+As I mentioned above, there are aspects of any experimental setup that
+are out of our control. We can try to account for them, but we often
+cannot change them. However, we like to think of computer science as an
+engineering science, and thus a constructive science. But that is pretty
+much in contradiction with the fact that some things lie outside the
+boundary of our control. Hence, claims were made that we are more of an
+observational science. The consequence is that we should behave as such
+a discipline, and accept that some things are out of our control, yet we
+should take them into account. Fil Pizlo mentioned astrophysics on
+several occasions, but did not really detail what he meant by that.
+
+
+Now, if we want to grow up as a scientific discipline, we need to accept
+that there are shortcoming in our current way of working that need to be
+fixed. The keynote clearly motivated the need for several of these: (i)
+the possibility of (relatively) easily replicate existing research
+results -- for example, to allow reviewers to confirm conclusions -- as
+independent experiments are a cornerstone of modern science, (ii)
+reproducibility of techniques and results -- same approach, different
+setup style, e.g., another JVM, another OS, VMM, etc. -- since this
+confirms that the idea is also generalisable, and (iii) the possibility
+of refuting earlier work through negative results. None of these are
+going to happen as much as they should without some incentive system
+being in place. The reality is, of course, that any PhD student,
+professor, or anybody else in academia, except for a select few, have to
+keep increasing their publication output, and the above studies simply
+do not have a venue where they can be published. Blogs etc. do not count
+here, for obvious reasons. Now, the idea is not to have small 1-2 page
+papers confirming or refuting, but to have full-blown papers, that have
+the same status as any other papers published at the same venue. At this
+point the ACM digital library offers subscribers the option of reviewing
+existing papers, but that is not completely the same. Moreover, it does
+not allow a researcher to add something of significance to his resume.
+So, such papers should be able to hold their own and be judged on their
+own merit.
+
+
+Full disclosure is another point that was often brought up. Even when
+rigorous statistics are used, the summarising numbers do not tell
+everything about the experiment. A first step towards the expected
+disclosure is making the full dataset available. This at least allows
+other people to redo the analysis even if they do not redo the actual
+experiments. A step further is providing the code. This might not be
+feasible for industrial contributors, where code might have to be
+protected or when researchers have signed NDAs with some industrial
+partner. However, this should only impact a minority of the cases, I
+think. Thus, disclosure of the code. On top of that, it is preferable
+that the scripts, fully detailed setup, etc. are made available. There
+is one big caveat. Sometimes setups are too large to be easily
+replicated, which may impact the ability to replicate the work by an
+independent researcher.
+
+
+I think there were several remarks that carried quite some weight. The
+first, obviously, was made during the keynote, namely that sometimes the
+improvements are not large enough to warrant implementation in a
+production environment. Complementary to that remark it was suggested
+that perhaps our efforts are simply too feeble to warrant even
+replication or reproduction. Third, simply reproducing for the sake of
+numbers is not the desired attitude. Numbers do not mean anything in
+themselves, but through evaluation we should gain understanding, and
+this understanding should be deepened by reproduction and replication of
+past work. Essentially, reproductions should be a qualitative issue, not
+a quantitative. Put differently, negative results also count, but not
+all of them! There was some controversy over when a negative result
+should be published and when it can be dismissed as uninteresting. I
+guess that is up to the reviewers.
+
+
+In the first afternoon session, we discussed in depth several issues
+that we deemed important and that should be fixed in the (preferably
+near) future. The subjects were mingling at several occasions, but I
+think that’s perfectly normal. After all, we were doing this for the
+first time, so we needed to still wrap our heads around all the possible
+angles to tackle the problem.
+
+
+What is the purpose of evaluation? Is it simply to measure a system and
+report those results? Essentially, as I touched upon above, the ultimate
+goal is to gain insight. Why is something better, why do we see an
+improvement over existing approaches? And are these improvements solely
+due to our technique, or are there other effects at work?
+
+
+An interesting idea was raised by Fil Pizlo, namely -- he elaborated on
+that over dinner -- that science should start from some falsifiable
+hypothesis, since one cannot prove something right with experimentation,
+one can only prove it wrong. Hence, everything we know from science is
+ultimately false. But let us not take it that far. Still, the hypothesis
+idea held. Mike Hind suggested that the evaluation should provide some
+first indication that an idea works, once more bringing up the notion of
+replication and reproduction. Additionally, since ideas all have
+drawbacks, the motion was put forward that papers should be honest up
+front: state what are the good and the bad points. I agree, but then
+there needs to be some way to avoid PC members solely using the negative
+points pointed out in the paper to shoot it down. Finally, we concluded
+that any paper should provide insights into why the idea is applicable
+in general. Now, some ideas are very niche-centered, but still, they
+might apply in some form to things outside the niche.
+
+
+After some slides presented by Fil and Eric on perturbation and chaos,
+respectively, we turned our heads back to reproduction. All of the above
+applied. One interesting notion that was raised was the idea of
+cross-validation. I am not convinced that this is applicable in all
+cases, but whenever it is possible it certainly is a good idea, though
+this requires to have either multiple benchmark suites, or use a
+leave-one-out approach. Obviously, different domains have different
+requirements and possibilities, so we cannot simply judge all
+evaluations by the same set of rules, but they should at least obey to
+the gist of the best practices we will put forward.
+
+
+One of the key issues is to create sufficient incentives to get
+researchers to do exactly what is commonly done in other sciences, and
+we talked about that at length during the second afternoon session. Part
+of the debate was wether we feel we should publish in journals versus
+conferences. While I feel that’s a worthy debate, I recon it is pretty
+orthogonal to what we are trying to get reviewers to be acceptive of.
+
+
+The next steps are pretty straightforward. We have agreed upon a number
+of things, even though I had liked to see us discuss some lower level
+things as well, such as benchmarks, metrics and statistics. I felt there
+was not really much room for debate along these lines at this point, so
+I guess most of my own position statement still is open to debate.
+
+
+1.  Contact top-level conference PC chairs and provide them with an open
+letter where we state our position.
+2.  Make people aware of the issues involving evaluation.
+3.  Find like-minded researchers that are willing to support this cause.
+4.  Write a more in-depth article to give even more visibility.
+5.  Have a follow-up workshop in the near future.
+
+
+I really hope this will help somewhat improve the sorry state of
+evaluation in our field, as it is high time we wake up.
+
+
+
+

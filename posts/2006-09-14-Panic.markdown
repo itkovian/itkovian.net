@@ -1,0 +1,112 @@
+-----
+Title:  Panic!
+Author: Andy Georges
+Date: September 14, 2006
+----
+
+
+
+
+
+
+
+Today is the first time OSX bailed on me. The circumstances were the
+following. I usually let my new battery drain completely before plugging
+in the power cable. This morning, I hooked up my iPod nano, and had the
+machine run on battery. After a few hours, the system gave me a warning
+to plug the machine in or it would go to sleep. I decided to let it
+proceed. After the battery was sufficiently drained, OSX automagically
+went to bed. Upon plugging in, and waking up, OSX told me that a device
+had been removed prematurely. Obviously I had forgotten to unmount the
+iPod. iTunes started up, and mounted my iPod just fine. I turned to
+Colloquy to state that I was back, when the screen got covered in a
+gentle grey tone, and a square apeared, neatly centered on it, saying
+that I must restart my machine.
+
+
+Upon restart, OSX told me it had crashed, and lo! a kernel panic had
+occured.
+
+
+Unresolved kernel trap(cpu 0): 0x300 - Data access
+
+
+DAR=0x000000000000008C
+
+
+PC=0x00000000002C8604
+
+
+Latest crash info for cpu 0:
+
+
+Exception state (sv=0x279EB280)
+
+
+PC=0x002C8604;
+
+
+MSR=0x00009030;
+
+
+DAR=0x0000008C;
+
+
+DSISR=0x40000000;
+
+
+LR=0x0003C744;
+
+
+R1=0x125B3DC0;
+
+
+XCP=0x0000000C (0x300 - Data access)
+
+
+Backtrace:
+
+
+0x002C85AC 0x0003C744 0x000A9914
+
+
+Proceeding back via exception chain:
+
+
+Exception state (sv=0x279EB280)
+
+
+previously dumped as "Latest" state. skipping...
+
+
+Exception state (sv=0x2817F280)
+
+
+PC=0x00000000;
+
+
+MSR=0x0000D030;
+
+
+DAR=0x00000000;
+
+
+DSISR=0x00000000;
+
+
+LR=0x00000000;
+
+
+R1=0x00000000;
+
+
+XCP=0x00000000 (Unknown)
+
+
+The PC being 0x0 in that last state is midly discomforting, though I do
+not know for certain if it is relevant to this crash or if the
+information shown is somehow wrong.
+
+
+
+

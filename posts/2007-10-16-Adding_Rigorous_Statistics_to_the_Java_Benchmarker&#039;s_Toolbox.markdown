@@ -1,0 +1,45 @@
+-----
+Title:  Adding Rigorous Statistics to the Java Benchmarker&
+Author: Andy Georges
+Date: October 16, 2007
+----
+
+
+
+
+
+
+
+You can find the
+[pdf](http://itkovian.net/base/files/papers/oopsla2007-poster.pdf) of
+the poster I will be presenting together with
+[Dries](http://buytaert.net/) at [OOPSLA](http://oopsla.org/oopsla2007)
+this year. If all went well, there should be a two-page poster abstract
+printed in the OOPSLA Companion
+([preprint](http://itkovian.net/base/files/papers/oopsla2007-poster-abstract-preprint.pdf)).
+So feel free to drop by on [Monday
+evening](http://www.oopsla.org/oopsla2007/index.php?page=program/posters/)
+and have a chat.
+
+
+The abstract to this abstract reads as follows.
+
+
+Java performance is far from trivial to benchmark because it is affected
+by various factors such as the Java application, its input, the virtual
+machine, the garbage collector, the heap size, etc. In addition,
+non-determinism due to Just-in-Time compilation/optimization, thread
+scheduling, etc., causes the execution time of a Java program to differ
+from run to run.
+
+
+This poster advocates statistically rigorous data analysis when
+reporting Java performance. We advise to model non-determinism by
+computing confidence intervals. In addition, we show that prevalent data
+analysis approaches may lead to misleading or even incorrect
+conclusions. Although we focus on Java performance, the techniques can
+be readily applied to any managed runtime system.
+
+
+
+

@@ -1,0 +1,59 @@
+-----
+Title:  hMollom
+Author: Andy Georges
+Date: February 26, 2010
+----
+
+
+
+
+
+
+
+You may or may not be aware of the excellent anti-spam service provided
+by [Mollom](http://mollom.com/), founded by two friends and colleagues,
+[Dries Buytaert](http://buytaert.net/) and Benjamin Schrauwen. Mollom
+provides an API to program against, allowing support libraries to be
+written in a variety of languages and for numerous platforms. Top-notch
+examples are the [Drupal](http://drupal.org/)
+[plugin](http://ftp.drupal.org/files/projects/mollom-6.x-1.12.tar.gz)
+(obviously :-) and the [WordPress](http://wordpress.org/)
+[plugin](http://wordpress.org/extend/plugins/wp-mollom). Next to that
+there are a number of libraries for Java, PHP5, Ruby, Python, etc.
+Sadly, a [Haskell](http://haskell.org/) library was lacking.
+
+
+Given that I enjoy programming in Haskell and need to sharpen my
+Haskell-fu, I set out to write a library for interfacing with the Mollom
+[API](http://mollom.com/api/mollom-basics). The library is far from
+finished, but it is functional at this point, so if you have Mollom
+keys, you can call the services and fight the spam war on your Haskell
+driven website.
+
+
+I maintain two repositories where you can get the library:
+
+
+-   -   At [Hackage](http://hackage.haskell.org/):
+[hMollom](http://hackage.haskell.org/package/hMollom)
+-   -   -   At [github](http://github.com/):
+[hMollom.git](http://github.com/itkovian/hMollom)
+-   
+
+
+At this point the library has been given version 0.1. So it is still
+lacking quite a lot of features. Stuff that is on the immediate TODO
+list:
+
+
+-   -   Add fault handling
+-   -   -   Add server list refreshing
+-   -   -   Encapsulate the state in a monad
+-   
+
+
+Any feedback is appreciated.
+
+
+
+
