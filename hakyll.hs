@@ -1,14 +1,15 @@
 {-# LANGUAGE OverloadedStrings #-}
 module Main where
 
-import Prelude hiding (id)
 import Control.Arrow (arr, (>>>))
 import Control.Category (id)
+import Data.Monoid (mempty)
+import Prelude hiding (id)
 
 import Hakyll
 
 main :: IO ()
-main = hakyll $ do
+main = hakyllWith config $ do
 
     -- Images
     match "images/*" $ do
@@ -31,12 +32,25 @@ main = hakyll $ do
         route idRoute
         compile compressCssCompiler
 
+    -- Posts list (taken from the simpleblog example)
+    match "posts.html" $ route idRoute
+    create "posts.html" $ constA mempty
+        >>> arr (setField "title" "All posts")
+        >>> arr (setField "date" "Today")
+        >>> setFieldPageList recentFirst "templates/postitem.html" "posts" "posts/*"
+        >>> applyTemplateCompiler "templates/posts.html"
+        >>> applyTemplateCompiler "templates/default.html"
+        >>> relativizeUrlsCompiler
+
     -- Index
-    match (list ["index.markdown"]) $ do 
-        route $ setExtension "html"
-        compile $ pageCompiler
-            >>> applyTemplateCompiler "templates/default.html"
-            >>> relativizeUrlsCompiler
+    match "index.html" $ route idRoute
+    create "index.html" $ constA mempty
+        >>> arr (setField "title" "I am not yet done.")
+        >>> arr (setField "date" "Today")
+        >>> setFieldPageList (take 10 . recentFirst) "templates/postitem.html" "posts" "posts/*"
+        >>> applyTemplateCompiler "templates/index.html"
+        >>> applyTemplateCompiler "templates/default.html"
+        >>> relativizeUrlsCompiler
 
     -- Posts
     match "posts/*" $ do
@@ -48,3 +62,11 @@ main = hakyll $ do
 
     -- Read templates
     match "templates/*" $ compile templateCompiler
+
+
+config :: HakyllConfiguration
+config = defaultHakyllConfiguration
+    { deployCommand = "rsync --checksum -ave 'ssh' \
+                      \_site/* itkovian@itkovian.net:itkovian.net"
+    }
+
