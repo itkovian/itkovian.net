@@ -2,6 +2,7 @@
 title:  Mollom T-shirt
 author: Andy Georges
 date: August 8, 2008
+description: 
 tags: 
 -----
 

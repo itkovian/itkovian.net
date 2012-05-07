@@ -2,6 +2,7 @@
 title:  Haircut
 author: Andy Georges
 date: August 26, 2007
+description: 
 tags: 
 -----
 

@@ -2,6 +2,7 @@
 title:  Reserve battery
 author: Andy Georges
 date: September 4, 2006
+description: 
 tags: 
 -----
 

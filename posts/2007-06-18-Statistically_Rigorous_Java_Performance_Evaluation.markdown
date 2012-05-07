@@ -2,6 +2,7 @@
 title:  Statistically Rigorous Java Performance Evaluation
 author: Andy Georges
 date: June 18, 2007
+description: 
 tags: 
 -----
 

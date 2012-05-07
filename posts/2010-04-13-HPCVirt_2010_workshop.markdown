@@ -2,6 +2,7 @@
 title:  HPCVirt 2010 workshop
 author: Andy Georges
 date: April 13, 2010
+description: 
 tags: 
 -----
 

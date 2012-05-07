@@ -2,6 +2,7 @@
 title:  Transparency
 author: Andy Georges
 date: January 30, 2007
+description: 
 tags: 
 -----
 

@@ -2,6 +2,7 @@
 title:  Pattie Maes at OOPSLA
 author: Andy Georges
 date: November 8, 2007
+description: 
 tags: 
 -----
 

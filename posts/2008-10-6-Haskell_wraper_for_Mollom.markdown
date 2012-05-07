@@ -2,6 +2,7 @@
 title:  Haskell wraper for Mollom
 author: Andy Georges
 date: October 6, 2008
+description: 
 tags: 
 -----
 

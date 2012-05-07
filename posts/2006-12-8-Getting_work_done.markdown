@@ -2,6 +2,7 @@
 title:  Getting work done.
 author: Andy Georges
 date: December 8, 2006
+description: 
 tags: 
 -----
 

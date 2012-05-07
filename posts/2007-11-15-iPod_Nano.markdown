@@ -2,6 +2,7 @@
 title:  iPod Nano
 author: Andy Georges
 date: November 15, 2007
+description: 
 tags: 
 -----
 

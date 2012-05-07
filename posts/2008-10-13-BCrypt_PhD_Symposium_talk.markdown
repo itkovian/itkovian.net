@@ -2,6 +2,7 @@
 title:  BCrypt PhD Symposium talk
 author: Andy Georges
 date: October 13, 2008
+description: 
 tags: 
 -----
 

@@ -2,6 +2,7 @@
 title:  Faeries at the Comic-Con
 author: Andy Georges
 date: August 9, 2006
+description: 
 tags: 
 -----
 

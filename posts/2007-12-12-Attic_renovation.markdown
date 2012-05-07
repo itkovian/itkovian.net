@@ -2,6 +2,7 @@
 title:  Attic renovation
 author: Andy Georges
 date: December 12, 2007
+description: 
 tags: 
 -----
 

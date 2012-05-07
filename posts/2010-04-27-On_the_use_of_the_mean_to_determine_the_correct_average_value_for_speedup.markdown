@@ -2,6 +2,7 @@
 title:  On the use of the mean to determine the correct average value for speedup
 author: Andy Georges
 date: April 27, 2010
+description: 
 tags: 
 -----
 

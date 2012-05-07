@@ -2,6 +2,7 @@
 title:  Invited Talks at Prague University
 author: Andy Georges
 date: December 14, 2010
+description: 
 tags: 
 -----
 

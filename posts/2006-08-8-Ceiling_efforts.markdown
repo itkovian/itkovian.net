@@ -2,6 +2,7 @@
 title:  Ceiling efforts
 author: Andy Georges
 date: August 8, 2006
+description: 
 tags: 
 -----
 

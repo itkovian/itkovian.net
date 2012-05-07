@@ -2,6 +2,7 @@
 title:  Strike!
 author: Andy Georges
 date: October 3, 2008
+description: 
 tags: 
 -----
 

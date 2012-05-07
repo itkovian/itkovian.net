@@ -2,6 +2,7 @@
 title:  Academic year shift
 author: Andy Georges
 date: December 2, 2006
+description: 
 tags: 
 -----
 

@@ -2,6 +2,7 @@
 title:  Wedding anniversary
 author: Andy Georges
 date: April 29, 2006
+description: 
 tags: 
 -----
 

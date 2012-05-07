@@ -2,6 +2,7 @@
 title:  Parental leave
 author: Andy Georges
 date: August 19, 2011
+description: 
 tags: 
 -----
 

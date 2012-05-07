@@ -2,6 +2,7 @@
 title:  Running with new shoes
 author: Andy Georges
 date: July 1, 2008
+description: 
 tags: 
 -----
 

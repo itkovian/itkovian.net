@@ -2,6 +2,7 @@
 title:  MacJournal or Ecto?
 author: Andy Georges
 date: March 10, 2010
+description: 
 tags: 
 -----
 

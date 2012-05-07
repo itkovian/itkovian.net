@@ -2,6 +2,7 @@
 title:  OOPSLA opening keynote
 author: Andy Georges
 date: October 21, 2008
+description: 
 tags: 
 -----
 

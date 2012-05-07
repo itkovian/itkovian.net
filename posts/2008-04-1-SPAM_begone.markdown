@@ -2,6 +2,7 @@
 title:  SPAM, begone!
 author: Andy Georges
 date: April 1, 2008
+description: 
 tags: 
 -----
 

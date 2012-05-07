@@ -2,6 +2,7 @@
 title:  Moving hMollom to a monadic base
 author: Andy Georges
 date: April 12, 2010
+description: 
 tags: 
 -----
 

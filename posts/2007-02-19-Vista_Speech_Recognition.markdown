@@ -2,6 +2,7 @@
 title:  Vista Speech Recognition
 author: Andy Georges
 date: February 19, 2007
+description: 
 tags: 
 -----
 

@@ -2,6 +2,7 @@
 title:  Ceiling progress
 author: Andy Georges
 date: September 11, 2006
+description: 
 tags: 
 -----
 

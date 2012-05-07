@@ -2,6 +2,7 @@
 title:  PhD defense stage 1
 author: Andy Georges
 date: February 27, 2008
+description: 
 tags: 
 -----
 

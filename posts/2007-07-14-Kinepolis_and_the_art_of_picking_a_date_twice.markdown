@@ -2,6 +2,7 @@
 title:  Kinepolis and the art of picking a date twice
 author: Andy Georges
 date: July 14, 2007
+description: 
 tags: 
 -----
 

@@ -2,6 +2,7 @@
 title:  PhD obtained
 author: Andy Georges
 date: May 1, 2008
+description: 
 tags: 
 -----
 

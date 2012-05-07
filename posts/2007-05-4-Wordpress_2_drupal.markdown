@@ -2,6 +2,7 @@
 title:  Wordpress 2 drupal
 author: Andy Georges
 date: May 4, 2007
+description: 
 tags: 
 -----
 

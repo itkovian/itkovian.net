@@ -2,6 +2,7 @@
 title:  Kathy Sierra on creating passionate users
 author: Andy Georges
 date: October 25, 2007
+description: 
 tags: 
 -----
 

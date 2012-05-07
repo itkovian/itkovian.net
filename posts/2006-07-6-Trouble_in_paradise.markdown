@@ -2,6 +2,7 @@
 title:  Trouble in paradise
 author: Andy Georges
 date: July 6, 2006
+description: 
 tags: 
 -----
 

@@ -2,6 +2,7 @@
 title:  PyMollom moved to GitHub
 author: Andy Georges
 date: February 8, 2010
+description: 
 tags: 
 -----
 

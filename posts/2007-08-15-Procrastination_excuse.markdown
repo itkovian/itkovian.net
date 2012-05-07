@@ -2,6 +2,7 @@
 title:  Procrastination excuse
 author: Andy Georges
 date: August 15, 2007
+description: 
 tags: 
 -----
 

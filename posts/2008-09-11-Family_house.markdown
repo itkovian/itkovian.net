@@ -2,6 +2,7 @@
 title:  Family house
 author: Andy Georges
 date: September 11, 2008
+description: 
 tags: 
 -----
 

@@ -2,6 +2,7 @@
 title:  Belgian endive
 author: Andy Georges
 date: January 3, 2008
+description: 
 tags: 
 -----
 

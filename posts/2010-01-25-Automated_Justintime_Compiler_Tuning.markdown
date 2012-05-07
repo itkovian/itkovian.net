@@ -2,6 +2,7 @@
 title:  Automated Just-in-time Compiler Tuning
 author: Andy Georges
 date: January 25, 2010
+description: 
 tags: 
 -----
 

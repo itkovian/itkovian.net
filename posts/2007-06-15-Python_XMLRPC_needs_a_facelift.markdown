@@ -2,6 +2,7 @@
 title:  Python XML-RPC needs a facelift.
 author: Andy Georges
 date: June 15, 2007
+description: 
 tags: 
 -----
 

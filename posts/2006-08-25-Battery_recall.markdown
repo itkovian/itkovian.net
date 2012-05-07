@@ -2,6 +2,7 @@
 title:  Battery recall
 author: Andy Georges
 date: August 25, 2006
+description: 
 tags: 
 -----
 

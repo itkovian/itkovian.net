@@ -2,6 +2,7 @@
 title:  WTF calculator competition
 author: Andy Georges
 date: June 12, 2007
+description: 
 tags: 
 -----
 

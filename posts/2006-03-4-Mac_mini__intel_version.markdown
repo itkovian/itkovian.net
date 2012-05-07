@@ -2,6 +2,7 @@
 title:  Mac mini - intel version
 author: Andy Georges
 date: March 4, 2006
+description: 
 tags: 
 -----
 

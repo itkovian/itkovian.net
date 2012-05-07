@@ -2,6 +2,7 @@
 title:  Position statement
 author: Andy Georges
 date: October 20, 2010
+description: 
 tags: 
 -----
 

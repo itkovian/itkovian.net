@@ -2,6 +2,7 @@
 title:  Seattle
 author: Andy Georges
 date: September 18, 2006
+description: 
 tags: 
 -----
 

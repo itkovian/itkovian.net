@@ -2,6 +2,7 @@
 title:  The Fantasy Hotlist
 author: Andy Georges
 date: November 10, 2008
+description: 
 tags: 
 -----
 

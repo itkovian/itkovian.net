@@ -2,6 +2,7 @@
 title:  Java Performance through Rigorous Replay Compilation
 author: Andy Georges
 date: August 19, 2008
+description: 
 tags: 
 -----
 

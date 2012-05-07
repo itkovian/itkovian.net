@@ -2,6 +2,7 @@
 title:  The lack of luggage
 author: Andy Georges
 date: October 28, 2007
+description: 
 tags: 
 -----
 

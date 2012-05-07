@@ -2,6 +2,7 @@
 title:  Let loose
 author: Andy Georges
 date: October 7, 2006
+description: 
 tags: 
 -----
 

@@ -2,6 +2,7 @@
 title:  Flickr favourites
 author: Andy Georges
 date: July 13, 2007
+description: 
 tags: 
 -----
 

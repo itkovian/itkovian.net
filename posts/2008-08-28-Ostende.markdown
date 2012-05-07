@@ -2,6 +2,7 @@
 title:  Ostende
 author: Andy Georges
 date: August 28, 2008
+description: 
 tags: 
 -----
 

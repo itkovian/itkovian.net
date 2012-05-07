@@ -2,6 +2,7 @@
 title:  Scientific Rigour
 author: Andy Georges
 date: November 21, 2008
+description: 
 tags: 
 -----
 

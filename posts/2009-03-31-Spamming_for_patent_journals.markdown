@@ -2,6 +2,7 @@
 title:  Spamming for patent journals
 author: Andy Georges
 date: March 31, 2009
+description: 
 tags: 
 -----
 

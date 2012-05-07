@@ -2,6 +2,7 @@
 title:  Ranking Commercial Machines through Data Transposition
 author: Andy Georges
 date: August 31, 2011
+description: 
 tags: 
 -----
 

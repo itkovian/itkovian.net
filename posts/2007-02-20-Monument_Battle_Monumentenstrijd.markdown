@@ -2,6 +2,7 @@
 title:  Monument Battle (Monumentenstrijd)
 author: Andy Georges
 date: February 20, 2007
+description: 
 tags: 
 -----
 

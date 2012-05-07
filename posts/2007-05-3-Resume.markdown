@@ -2,6 +2,7 @@
 title:  Resume
 author: Andy Georges
 date: May 3, 2007
+description: 
 tags: 
 -----
 

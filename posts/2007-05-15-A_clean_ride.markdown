@@ -2,6 +2,7 @@
 title:  A clean ride
 author: Andy Georges
 date: May 15, 2007
+description: 
 tags: 
 -----
 

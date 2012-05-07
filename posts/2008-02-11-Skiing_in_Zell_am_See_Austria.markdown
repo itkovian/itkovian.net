@@ -2,6 +2,7 @@
 title:  Skiing in Zell am See, Austria
 author: Andy Georges
 date: February 11, 2008
+description: 
 tags: 
 -----
 

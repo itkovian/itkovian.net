@@ -2,6 +2,7 @@
 title:  Predictive Learning in Two-way Datasets
 author: Andy Georges
 date: July 17, 2011
+description: 
 tags: 
 -----
 

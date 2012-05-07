@@ -2,6 +2,7 @@
 title:  Flemish programming contest
 author: Andy Georges
 date: January 28, 2010
+description: 
 tags: 
 -----
 

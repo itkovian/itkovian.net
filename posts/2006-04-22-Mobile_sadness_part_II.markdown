@@ -2,6 +2,7 @@
 title:  Mobile sadness part II
 author: Andy Georges
 date: April 22, 2006
+description: 
 tags: 
 -----
 

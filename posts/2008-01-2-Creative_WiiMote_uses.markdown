@@ -2,6 +2,7 @@
 title:  Creative WiiMote uses
 author: Andy Georges
 date: January 2, 2008
+description: 
 tags: 
 -----
 

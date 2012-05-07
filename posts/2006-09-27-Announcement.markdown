@@ -2,6 +2,7 @@
 title:  Announcement
 author: Andy Georges
 date: September 27, 2006
+description: 
 tags: 
 -----
 

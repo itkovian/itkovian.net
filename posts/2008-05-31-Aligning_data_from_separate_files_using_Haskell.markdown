@@ -2,6 +2,7 @@
 title:  Aligning data from separate files using Haskell
 author: Andy Georges
 date: May 31, 2008
+description: 
 tags: 
 -----
 

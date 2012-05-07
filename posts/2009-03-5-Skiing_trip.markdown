@@ -2,6 +2,7 @@
 title:  Skiing trip
 author: Andy Georges
 date: March 5, 2009
+description: 
 tags: 
 -----
 

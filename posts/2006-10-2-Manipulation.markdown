@@ -2,6 +2,7 @@
 title:  Manipulation
 author: Andy Georges
 date: October 2, 2006
+description: 
 tags: 
 -----
 

@@ -2,6 +2,7 @@
 title:  Public PhD Defense
 author: Andy Georges
 date: April 14, 2008
+description: 
 tags: 
 -----
 

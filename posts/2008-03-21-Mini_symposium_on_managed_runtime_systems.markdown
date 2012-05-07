@@ -2,6 +2,7 @@
 title:  Mini symposium on managed runtime systems
 author: Andy Georges
 date: March 21, 2008
+description: 
 tags: 
 -----
 

@@ -2,6 +2,7 @@
 title:  Growth
 author: Andy Georges
 date: November 28, 2006
+description: 
 tags: 
 -----
 

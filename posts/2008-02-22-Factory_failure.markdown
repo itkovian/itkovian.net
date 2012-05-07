@@ -2,6 +2,7 @@
 title:  Factory failure
 author: Andy Georges
 date: February 22, 2008
+description: 
 tags: 
 -----
 

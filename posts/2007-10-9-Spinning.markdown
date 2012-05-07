@@ -2,6 +2,7 @@
 title:  Spinning
 author: Andy Georges
 date: October 9, 2007
+description: 
 tags: 
 -----
 

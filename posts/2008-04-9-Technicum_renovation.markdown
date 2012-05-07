@@ -2,6 +2,7 @@
 title:  Technicum renovation
 author: Andy Georges
 date: April 9, 2008
+description: 
 tags: 
 -----
 
