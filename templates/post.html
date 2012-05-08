@@ -1,35 +1,21 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="hakyll" />
-
-  <link rel="stylesheet" type="text/css" href="css/itkovian.css">
-
-  <title>$title$</title>
-</head>
-<body>
-  <div id="header">
+<div id="post">
+  <div id="post-header">
     <div id="title">
-      <h1>$title$</h1>
+      <h2>$title$</h2>
     </div>
-    <div id="date">
-      $date$
-    </div>
-  </div>
-
-  <div id="container">
-    <div id="content">
-      $body$
+    <div id="post-description">
+      <h3>$description$</h3>
     </div>
   </div>
-
-  <div id="footer">
-
-
+  <div id="post-body">
+    $body$
   </div>
-
-</body>
-</html>
+  <div id="post-footer">
+    <div id="post-date">
+      Posted at: $date$
+    </div>
+    <div id="post-tags">
+      Posted in: $tags$
+    </div>
+  </div>
+</div>

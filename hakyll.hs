@@ -35,6 +35,7 @@ main = hakyllWith config $ do
     -- Posts list (taken from the simpleblog example)
     match "posts.html" $ route idRoute
     create "posts.html" $ constA mempty
+        >>> arr (setField "sitetitle" "I am not yet done.")
         >>> arr (setField "title" "All posts")
         >>> arr (setField "date" "Today")
         >>> setFieldPageList recentFirst "templates/postitem.html" "posts" "posts/*"
@@ -45,7 +46,7 @@ main = hakyllWith config $ do
     -- Index
     match "index.html" $ route idRoute
     create "index.html" $ constA mempty
-        >>> arr (setField "title" "I am not yet done.")
+        >>> arr (setField "sitetitle" "I am not yet done.")
         >>> arr (setField "date" "Today")
         >>> setFieldPageList (take 10 . recentFirst) "templates/postitem.html" "posts" "posts/*"
         >>> applyTemplateCompiler "templates/index.html"
@@ -56,8 +57,10 @@ main = hakyllWith config $ do
     match "posts/*" $ do
         route $ setExtension "html"
         compile $ pageCompiler
+            >>> arr (setField "sitetitle" "I am not yet done.")
             >>> arr (renderDateField "date" "%B %e, %Y" "Date unknown")
             >>> applyTemplateCompiler "templates/post.html"
+            >>> applyTemplateCompiler "templates/default.html"
             >>> relativizeUrlsCompiler
 
     -- Read templates
