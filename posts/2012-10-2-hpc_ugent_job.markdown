@@ -1,3 +1,13 @@
+-----
+title:  New job with the UGent HPC team
+author: Andy Georges
+date: October 2, 2012
+description: I have shifted jobs, going from being a post-doc with the FWO to being a High-Performance Computing system administrator.
+tags: job, hpc
+-----
+
+
+
 Being a post-doctoral researcher is pretty awesome. You get to decide (mostly)
 which project and research you will be working on, you have your own (small)
 pile of cash to purchase tools, travel and visit conferences, etc. However, in
@@ -15,9 +25,9 @@ colleague -- [Kenneth Hoste](http://boegel.kejo.be) -- had moved to that team
 over a year before, so I had a pretty decent idea of what the job entailed.
 Enter selections. Apparently, things went smooth and for that I really owe
 Hudson some gratitude as they showed me the ropes when I applied for a job at
-the [IWT](http://www.iwt.be). Not that that did not go well -- I frakked up in
+the [IWT](http://www.iwt.be). These did go well -- I frakked up in
 the second round. But at least I was better prepared for the tests and the
-interview following it.
+interview following it this time around.
 
 Fast-forward some more, and I received a call from the UGent personnel
 department. Could I make time, like next Friday to come for an interview.
@@ -36,7 +46,8 @@ Which came two hours later. That I had landed the job.
 W00t!
 
 As it turned out, the other two guys are now working at the same department as
-well -- Jens already worked there and Kenneth apparently got a job as well.
+well -- Jens already worked there and Kenneth (not Hoste:) apparently got a job
+as well.
 
 So, as of March 1, 2012, I started a new job with the UGent HPC team and it's
 been a great ride so far.
