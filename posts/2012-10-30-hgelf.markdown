@@ -1,0 +1,18 @@
+-----
+title: hGelf: a Haskell Library for the Graylog Extended Logging Format
+author: Andy Georges
+date: October 30, 2012
+description: Log to a Graylog2 server fromyour Haskell application
+tags: haskell, graylog2, gelf, library
+-----
+
+Graylog is a well-known tool for gathering and analysing loginformation, sent
+from various application on one or more systems. To allow messages to contain
+more information than, say, a 128 character limit imposes.
+
+- talk about the format here
+- talk about the implementation here
+- give an example
+- explain how to set up the graylog server?
+
+
