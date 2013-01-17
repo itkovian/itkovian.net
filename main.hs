@@ -1,12 +1,28 @@
 {-# LANGUAGE OverloadedStrings #-}
 module Main where
 
-import Control.Arrow (arr, (>>>))
+import Control.Arrow (arr, (>>>), (|||), (***))
 import Control.Category (id)
 import Data.Monoid (mempty)
 import Prelude hiding (id)
 
 import Hakyll
+
+-- --------------------------------------------------------------
+-- Taken from http://jaspervdj.be/hakyll/tutorials/03-arrows.html
+isPublished :: Page a -> Bool
+isPublished p =
+  let published = getField "published" p in
+  published /= "" && published /= "false"
+
+isPagePublished :: Compiler (Page a) (Either (Page a) (Page a))
+isPagePublished = arr (\p -> if isPublished p then Right p else Left p)
+
+filterPublished :: Compiler (Page a, [Page b]) (Page a, [Page b])
+filterPublished = id *** arr (filter isPublished)
+-- --------------------------------------------------------------
+
+
 
 main :: IO ()
 main = hakyllWith config $ do
@@ -35,6 +51,7 @@ main = hakyllWith config $ do
     -- Posts list (taken from the simpleblog example)
     match "posts.html" $ route idRoute
     create "posts.html" $ constA mempty
+        >>> requireAllA "posts/*" (filterPublished >>> addPostList)
         >>> arr (setField "sitetitle" "I am not yet done.")
         >>> arr (setField "title" "All posts")
         >>> arr (setField "date" "Today")
@@ -59,7 +76,9 @@ main = hakyllWith config $ do
         compile $ pageCompiler
             >>> arr (setField "sitetitle" "I am not yet done.")
             >>> arr (renderDateField "date" "%B %e, %Y" "Date unknown")
-            >>> applyTemplateCompiler "templates/post.html"
+            >>> isPagePublished
+            >>> (applyTemplateCompiler "templates/post-unpublished.html"
+                ||| applyTemplateCompiler "templates/post.html")
             >>> applyTemplateCompiler "templates/default.html"
             >>> relativizeUrlsCompiler
 
