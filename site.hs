@@ -61,7 +61,7 @@ processPost post metadata =
     case determinePostType metadata of
         Paper -> do
             let paperCtx = postCtx `mappend`
-                    (field "paperz" $ \item -> loadSnapshotBody (paperPathFromPost $ itemIdentifier item) "paper-abstract")
+                    (field "paper" $ \item -> loadSnapshotBody (paperPathFromPost $ itemIdentifier item) "paper-abstract")
             debugCompiler $ "identifier for post = " ++ (show $ paperPathFromPost $ itemIdentifier post)
             applyAsTemplate paperContext post
                 >>= loadAndApplyTemplate "templates/post.html" paperCtx
