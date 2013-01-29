@@ -1,9 +1,10 @@
 -----
-title: EasyBuild: Building Software With Ease.
+title: EasyBuild paper at PySC'12
 author: Andy Georges
 date: October 29, 2012
 description: The EasyBuild paper got accepted into PyHPC 2012.
-tags: easybuild, paper, pyhpc, workshop
+paper: 2012-11-07-easybuild_paper.markdown
+tags: easybuild, pyhpc, workshop
 -----
 
 Over the past three years, the UGent HPC team has been developing a tool for
@@ -42,40 +43,15 @@ release candidate. The goal is to release the 1.0 version at SuperComputing
 With the planned release came the idea to write some text about the design and
 the use of EasyBuild, which resulted in a paper that was accepted for
 publication at the [SC'12 PyHPC
-workshop](http://www.dlr.de/sc/en/desktopdefault.aspx/tabid-8028/13765_read-34936/),
-titled `EasyBuild: Building Software With Ease` by Kenneth Hoste, Jens
-Timmerman, Andy Georges, and Stijn De Weirdt.
+workshop](http://www.dlr.de/sc/en/desktopdefault.aspx/tabid-8028/13765_read-34936/).
 
-You can obtain a [preprint
-version](http://itkovian.net/files/papers/preprint_easybuild_pyhpc_2012.pdf).
-
-The abstract of the paper reads as follows.
-
-_Maintaining a collection of software installations for a diverse user base
-can be a tedious, repetitive, error-prone and time-consuming task. Because most
-end-user software packages for an HPC environment are not readily available in
-existing OS package managers, they require significant extra effort
-from the user support team. Reducing this effort would free up a
-large amount of time for tackling more urgent tasks.
-
-In this work, we present \textit{\easybuild{}}, a software installation framework
-written in Python that aims to support the various installation procedures used
-by the vast collection of software packages that are typically installed in an
-HPC environment -- catering to widely different user profiles. It is built on top
-of existing tools, and provides support for well-established installation procedures.
-Supporting customised installation procedures requires little effort, and sharing
-implementations of installation procedures becomes very easy. Installing
-software packages that are supported can be done by issuing a single command, even
-if dependencies are not available yet.
-
-Hence, it simplifies the task of HPC site support teams, and even allows end-users
-to keep their software installations consistent and up to date._
+$paper$
 
 The presentation by [Kenneth Hoste](http://boegel.kejo.be/) will be linked soon
 :-)
 
 
-We have packages on Pyi:
+We have packages on PyPi:
 
 - [Everything](http://pypi.python.org/pypi/easybuild/1.0.0-rc1)
 - Individual components
