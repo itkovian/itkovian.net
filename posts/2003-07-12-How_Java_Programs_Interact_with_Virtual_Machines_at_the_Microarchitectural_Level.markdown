@@ -12,3 +12,4 @@ researchers have been observing the result of the wrong component when
 benchmarking Java applications, i.e., they observe the VM behaviour, not the
 Java application they intend to watch.
 
+$paper$
