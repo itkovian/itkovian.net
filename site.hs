@@ -61,13 +61,13 @@ processPost post metadata =
     case determinePostType metadata of
         Paper -> do
             let paperCtx = postCtx `mappend`
-                    (field "paper" $ \item -> loadSnapshotBody (paperPathFromPost $ itemIdentifier item) "paper-abstract")
+                    (field "abstract" $ \item -> loadSnapshotBody (paperPathFromPost $ itemIdentifier item) "paper-abstract")
             debugCompiler $ "identifier for post = " ++ (show $ paperPathFromPost $ itemIdentifier post)
-            applyAsTemplate paperContext post
+            (renderPandoc <$> applyAsTemplate paperCtx post)
                 >>= loadAndApplyTemplate "templates/post.html" paperCtx
                 >>= loadAndApplyTemplate "templates/default.html" paperCtx
 
-        Regular -> return post
+        Regular -> (renderPandoc <$> return post)
                     >>= loadAndApplyTemplate "templates/post.html" postCtx
                     >>= loadAndApplyTemplate "templates/default.html" postCtx
 
@@ -118,7 +118,7 @@ main = hakyll $ do
     match "posts/*" $ do
         route $ setExtension "html"
         compile $ do
-            post <- pandocCompiler
+            post <- getResourceBody
             metadata <- getMetadata $ itemIdentifier post
             processPost post metadata
                 >>= relativizeUrls

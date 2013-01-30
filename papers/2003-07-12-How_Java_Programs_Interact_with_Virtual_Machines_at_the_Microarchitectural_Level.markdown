@@ -4,6 +4,7 @@ authors: Lieven Eeckhout, Andy Georges, Koen De Bosschere
 pdf: http://itkovian.net/files/papers/oopsla2003-eeckhout-preprint.pdf
 ----
 
+
 Java workloads are becoming increasingly prominent on various platforms
 ranging from embedded systems, over general-purpose computers to
 high-end servers. Understanding the implications of all the aspects

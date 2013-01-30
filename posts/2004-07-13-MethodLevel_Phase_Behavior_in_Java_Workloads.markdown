@@ -14,4 +14,4 @@ the average program behaviour. We rely on hardware performance counters to
 lower the intrusion effects, and only instrument such that perturbation is kept
 to a minimum.
 
-$paper$
+$abstract$
