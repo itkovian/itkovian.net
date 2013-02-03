@@ -2,6 +2,8 @@
 title: Method-Level Phase Behavior in Java Workloads
 authors: Andy Georges, Dries Buytaert, Lieven Eeckhout, and Koen De Bosschere
 pdf: oopsla2004-preprint-georges.pdf
+venue: OOPSLA
+publicationdate: October 2004
 tags: java, virtual machine, bottleneck, performance, hardware counters
 ----
 

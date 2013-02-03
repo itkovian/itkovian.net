@@ -1,7 +1,10 @@
 ----
 title: How Java Programs Interact with Virtual Machines at the Microarchitectural Level
 authors: Lieven Eeckhout, Andy Georges, Koen De Bosschere
+venue: OOPSLA
+publicationdate: October 2003
 pdf: http://itkovian.net/files/papers/oopsla2003-eeckhout-preprint.pdf
+tags: java, jvm, microrchitecture, performance, benchmarking, hotspot, jikes, jrockit
 ----
 
 

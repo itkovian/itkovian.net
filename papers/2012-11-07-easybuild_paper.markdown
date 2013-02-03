@@ -2,6 +2,8 @@
 title: EasyBuild: Building Software With Ease
 authors: Kenneth Hoste, Jens Timmerman, Andy Georges, and Stijn De Weirdt
 pdf: http://itkovian.net/files/papers/preprint_easybuild_pyhpc_2012.pdf
+venue: PySC
+publicationdate: November 2012
 tags: easybuild, software, installation, python
 ----
 

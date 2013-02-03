@@ -9,6 +9,7 @@ import           Data.Monoid         (mappend, mconcat)
 import           Hakyll
 import           System.FilePath (combine, splitFileName)
 
+import           Author
 --------------------------------------------------------------------------------
 -- Post types
 data PostType = Regular
@@ -22,33 +23,30 @@ determinePostType metadata
 
 
 --------------------------------------------------------------------------------
--- support for `paper` posts
+-- Context for paper type items, replacing metadata items with hyperlinks
 paperContext :: Context String
-paperContext = mconcat
-    [ paperTitleContext
-    , paperAuthorContext
-    , paperAbstractContext
-    , paperPDFContext
-    ]
+paperContext =
+    bodyField     "body"     `mappend`
+    authorField              `mappend`
+    metadataField            `mappend`
+    urlField      "url"      `mappend`
+    pathField     "path"     `mappend`
+    titleField    "title"    `mappend`
+    missingField
 
-paperTitleContext :: Context a
-paperTitleContext = field "title" $ \item -> do
+
+--------------------------------------------------------------------------------
+-- | Change the given author string (containing multiple authors) to a string
+-- with the filled in hyperlinks for known authors
+authorField :: Context a
+authorField = field "authors" $ \item -> do
     metadata <- getMetadata (itemIdentifier item)
-    return $ fromMaybe "Titleless paper" $ M.lookup "title" metadata
+    return . authorTranslation . fromJust $ M.lookup "authors" metadata
 
-paperAuthorContext :: Context a
-paperAuthorContext = field "authors" $ \item -> do
-    metadata <- getMetadata (itemIdentifier item)
-    return $ fromMaybe "Authorless paper" $ M.lookup "authors" metadata
 
-paperAbstractContext :: Context String
-paperAbstractContext = field "body" $ return . itemBody
-
-paperPDFContext :: Context a
-paperPDFContext = field "pdf" $ \item -> do
-    metadata <- getMetadata (itemIdentifier item)
-    return $ fromMaybe "No PDF provided" $ M.lookup "pdf" metadata
-
+--------------------------------------------------------------------------------
+-- | Translates the original post path to the actual paper path, since papers
+-- articles are located in a separate directory
 paperPathFromPost :: Identifier -> Identifier
 paperPathFromPost i =
     let v = identifierVersion i

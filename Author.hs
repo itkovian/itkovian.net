@@ -21,12 +21,14 @@ authors = M.fromList $ [
     ]
 
 
+--------------------------------------------------------------------------------
 -- | Strip whitespace from both ends of a string
 strip :: String -> String
 strip = reverse . ds . reverse . ds
   where ds = dropWhile isSpace
 
 
+--------------------------------------------------------------------------------
 -- | Changes an author name into a hyperlink to the author's homepage
 authorTranslation :: String  -- ^ comma separated string containing author names
                   -> String  -- ^ similar string where knows authors are replaced by hyperlinks
