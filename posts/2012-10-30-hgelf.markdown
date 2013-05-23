@@ -2,7 +2,7 @@
 title: hGelf: a Haskell Library for the Graylog Extended Logging Format
 author: Andy Georges
 date: October 30, 2012
-description: Log to a Graylog2 server fromyour Haskell application
+description: Log to a Graylog2 server from your Haskell application
 tags: haskell, graylog2, gelf, library
 -----
 
