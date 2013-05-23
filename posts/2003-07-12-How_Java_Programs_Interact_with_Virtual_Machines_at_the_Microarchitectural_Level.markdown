@@ -1,5 +1,5 @@
 -----
-title:  How Java Programs Interact with Virtual Machines at the Microarchitectural Level
+title: Are you sure about what you measure?
 author: Andy Georges
 date: July 12, 2003
 paper: yes
@@ -13,3 +13,4 @@ benchmarking Java applications, i.e., they observe the VM behaviour, not the
 Java application they intend to watch.
 
 $abstract$
+
