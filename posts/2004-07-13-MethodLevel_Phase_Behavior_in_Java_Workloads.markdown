@@ -1,5 +1,5 @@
 -----
-title:  Method-Level Phase Behavior in Java Workloads.
+title: Finding performance bottlenecks in Java applications using a bottom-up approach
 author: Andy Georges
 date: July 13, 2004
 paper: yes
@@ -15,3 +15,4 @@ lower the intrusion effects, and only instrument such that perturbation is kept
 to a minimum.
 
 $abstract$
+
