@@ -3,58 +3,62 @@ title:  New job with the UGent HPC team
 author: Andy Georges
 date: October 2, 2012
 description: I have shifted jobs, going from being a post-doc with the FWO to being a High-Performance Computing system administrator.
-tags: job, hpc
+tags: job, hpc, ugent
 -----
 
 
-Being a post-doctoral researcher is pretty awesome. You get to decide (mostly)
-which project and research you will be working on, you have your own (small)
-pile of cash for purchasing tools, for traveling and visiting conferences, etc.
-In fact, if the position would be perpetual (until retirement or death), that
-would be totally awesome. Sadly, this is not quite possible. Post-doctoral
-positions are usualy grant based, with each grant lasting about three years. You
-can get extensions -- for example, the [FWO](http://www.fwo.be) allows up to two
-extension periods, so you can stay procrastinating at the university for up to 9
-years. In short, I was not going to get an extension. Too few published papers
-and all that.
+Once the coveted PhD is obtained, the question of what to do after this hits
+pretty hard. Going to industry or staying in academia is a dilemma that nags
+many PhDs. I opted for the latter, not really knowing what I would want to do in
+industry, and having a number of principles I did not readily want to give up.
+For example, the desire to use the platform that I work best on, e.g., some unix
+based OS. In my case, OSX. But one can only be a post-doc for so long. While it
+is pretty awesome -- you get to be in charge of what you want to do and where
+you want to take your research -- there comes a time when the
+[grant](http://www.flo.be) ends and a renewal might now be coming along. So.
+Again. Going to industry or staying in academia.
 
-My contract with the FWO would stop on September 30th, 2012, at the lastest. So,
-job hunting would be the first task I undertook after my 3-month parental leave.
-And so I did. Twice rather unsuccessful, stranding on the second place. For
-which there are no prises.
+In September 2010, Kenneth Hoste defended his PhD. Prior to that, he had
+conducted a lot of research using the -- then new --
+[UGent HPC](http://ugent.be/hpc) infrastructure. After his PhD, he accepted a
+job at the central IT department to work full time as a system administrator for
+the HPC team. Apparently, there we two such job openings, but I did not know,
+otherwise I would have applied too -- applying for a job a friend tells you
+about, well, you cannot just apply for it as well, imho. But now a new
+opportunity arose. The [Flemisch SuperComputer Centre](http://vscemntrum.be)
+would procure a Tier-1 sized system, which would be built in the UGent data
+centre. Hence a new job opening was posted and I applied.
 
-Fast-forward four months. Word had reached me that the [UGent HPC
-team](http://hpc.ugent.be) would be looking for extra manpower. A former
-colleague -- [Kenneth Hoste](http://boegel.kejo.be) -- had moved to that team
-over a year earlier, so I had a pretty decent idea of what the job might entail.
-I applied and was allowed to enter [Selection Round
+My [FWO](http://www.fwo.be) contract would end on 30 September 2012, which meant
+that finding new work was sort of becoming a concern. I had applied for jobs at
+the [IWT](http://www.iwt.be) and the [KHBO](http://khbo.be). Both times I ended
+second. And there are no points for those people.
+
+Fast-forward a few months. I was contacted for a [Selection Round
 1](http://www.assolutions.be). Apparently, things went
-smooth. Previous experiences with Hudson selections for a job at the
-[IWT](http://www.iwt.be) had prepared me pretty well.
+smooth. I had some experience from both previous job applications and this round
+was similar to the round I participated in at Hudson.
 
 A few weeks later I received a call from the UGent Personnel Department that I
-would be allowed to proceed to the second round. Which would take place in three
-days, i.e., the next Friday. This round consisted of an interview with the Unit
-ICT director and employees.
+would be allowed to proceed to the second round. They informed me this would
+take place three days later and consist of an interview with the Unit ICT
+director and several members of the unit who formed the selection committee.
 
 Hurrah. And then anxiousness.
 
-Three geeks were selected for this interview round. I thought I did pretty well,
-except for the part where I was asked what I thought about Python. I highlighted
-the pros (fast development (really?)) and the cons (no static checking of the
-code (especially the types)). The other two guys went in after me.
+Three people passed the first round. So the odds rose to 33%. I thought the
+interview went particularly well, especially when I was asked what my thoughts
+were on Python. I highlighted its benefits, and then moved on to the typing,
+which I really loathe. Ah well, no harm done.
 
-Back to work at [ELIS](http://www.elis.ugent.be). Suit off, regular clothes on.
-Wait. For. That. Call.
+Two hours later I received a phone call that I got the job and I could start
+1 March, 2012.
 
-Which came two hours later. A friendly female voice at the other end told me
-that I had landed the job if I was still interested in it.
+w00t!
 
-W00t!
-
-The other geeks, well, one of them already was working with the HPC team -- and
-still is -- the other one got himself hired at the Unit ICT systems group. He is
-now doing the setup of our storage systems with GPFS.
+It turned out the two other candidates also worked at the Unit ICT. One of them
+is a valued member of the HPC team, but with a temporary contract, the other
+started working in the systems group, where he now tackles GPFS storage issues.
 
 So, as of March 1, 2012, I started a new job with the UGent HPC team and it's
 been a great ride so far.
