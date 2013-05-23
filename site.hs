@@ -54,6 +54,7 @@ paperPathFromPost i =
     in setVersion v . fromFilePath $ combine "papers" p
 
 --------------------------------------------------------------------------------
+-- | process the blog posts and include custom snippets such as paper abstracts
 processPost :: Item String -> Metadata -> Compiler (Item String)
 processPost post metadata =
     case determinePostType metadata of
@@ -134,6 +135,18 @@ main = hakyll $ do
                 >>= loadAndApplyTemplate "templates/default.html" archiveCtx
                 >>= relativizeUrls
 
+    create ["publications.html"] $ do
+        route $ setExtension "html"
+        compile $ do
+            let publicationCtx =
+                    field "publications" (\_ -> publicationList recentFirst) `mappend`
+                    constField "title" "Publications"                        `mappend`
+                    defaultContext
+
+            makeItem ""
+                >>= loadAndApplyTemplate "templates/archive.html" publicationCtx
+                >>= loadAndApplyTemplate "templates/default.hml" publicationCtx
+                >>= relativizeUrls
 
     match "index.html" $ do
         route idRoute
@@ -160,4 +173,13 @@ postList sortFilter = do
     posts   <- sortFilter <$> loadAll "posts/*"
     itemTpl <- loadBody "templates/post-item.html"
     list    <- applyTemplateList itemTpl postCtx posts
+    return list
+
+
+--------------------------------------------------------------------------------
+publicationList :: ([Item String] -> [Item String]) -> Compiler String
+publicationList sortFilter = do
+    publications <- sortFilter <$> loadAll "papers/*"
+    itemTpl      <- loadBody "templates/publication-item.html"
+    list         <- applyTemplateList itemTpl paperContext publications
     return list
